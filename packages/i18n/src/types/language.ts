@@ -1,4 +1,4 @@
-export type TLanguage = "en" | "fr" | "es" | "ja" | "zh-CN" | "zh-TW" | "ru" | "it" | "cs" | "sk" | "de" | "ua" | "pl" | "ko";
+export type TLanguage = "en" | "vn" | "zh-CN" | "zh-TW";
 
 export interface ILanguageOption {
   label: string;
