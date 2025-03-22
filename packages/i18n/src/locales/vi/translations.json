@@ -1,0 +1,2157 @@
+{
+  "submit": "Gửi",
+  "cancel": "Hủy",
+  "loading": "Đang tải",
+  "error": "Lỗi",
+  "success": "Thành công",
+  "warning": "Cảnh báo",
+  "info": "Thông tin",
+  "close": "Đóng",
+  "yes": "Có",
+  "no": "Không",
+  "ok": "OK",
+  "name": "Tên",
+  "description": "Mô tả",
+  "search": "Tìm kiếm",
+  "add_member": "Thêm thành viên",
+  "adding_members": "Đang thêm thành viên",
+  "remove_member": "Xóa thành viên",
+  "add_members": "Thêm các thành viên",
+  "adding_member": "Đang thêm thành viên",
+  "remove_members": "Xóa các thành viên",
+  "add": "Thêm",
+  "adding": "Đang thêm",
+  "remove": "Xóa",
+  "add_new": "Thêm mới",
+  "remove_selected": "Xóa mục đã chọn",
+  "first_name": "Tên",
+  "last_name": "Họ",
+  "email": "Email",
+  "display_name": "Tên hiển thị",
+  "role": "Vai trò",
+  "timezone": "Múi giờ",
+  "avatar": "Ảnh đại diện",
+  "cover_image": "Ảnh bìa",
+  "password": "Mật khẩu",
+  "change_cover": "Thay đổi ảnh bìa",
+  "language": "Ngôn ngữ",
+  "saving": "Đang lưu",
+  "save_changes": "Lưu thay đổi",
+  "deactivate_account": "Vô hiệu hóa tài khoản",
+  "deactivate_account_description": "Khi vô hiệu hóa tài khoản, tất cả dữ liệu và tài nguyên trong tài khoản đó sẽ bị xóa vĩnh viễn và không thể khôi phục.",
+  "profile_settings": "Cài đặt hồ sơ",
+  "your_account": "Tài khoản của bạn",
+  "security": "Bảo mật",
+  "activity": "Hoạt động",
+  "appearance": "Giao diện",
+  "notifications": "Thông báo",
+  "workspaces": "Không gian làm việc",
+  "create_workspace": "Tạo không gian làm việc",
+  "invitations": "Lời mời",
+  "summary": "Tóm tắt",
+  "assigned": "Đã giao",
+  "created": "Đã tạo",
+  "subscribed": "Đã đăng ký",
+  "you_do_not_have_the_permission_to_access_this_page": "Bạn không có quyền truy cập trang này.",
+  "something_went_wrong_please_try_again": "Có lỗi xảy ra. Vui lòng thử lại.",
+  "load_more": "Tải thêm",
+  "select_or_customize_your_interface_color_scheme": "Chọn hoặc tùy chỉnh bảng phối màu giao diện của bạn.",
+  "theme": "Chủ đề",
+  "system_preference": "Tùy chọn hệ thống",
+  "light": "Sáng",
+  "dark": "Tối",
+  "light_contrast": "Độ tương phản cao (Sáng)",
+  "dark_contrast": "Độ tương phản cao (Tối)",
+  "custom": "Chủ đề tùy chỉnh",
+  "select_your_theme": "Chọn chủ đề của bạn",
+  "customize_your_theme": "Tùy chỉnh chủ đề của bạn",
+  "background_color": "Màu nền",
+  "text_color": "Màu chữ",
+  "primary_color": "Màu chính (Chủ đề)",
+  "sidebar_background_color": "Màu nền thanh bên",
+  "sidebar_text_color": "Màu chữ thanh bên",
+  "set_theme": "Đặt chủ đề",
+  "enter_a_valid_hex_code_of_6_characters": "Nhập mã hex hợp lệ gồm 6 ký tự",
+  "background_color_is_required": "Màu nền là bắt buộc",
+  "text_color_is_required": "Màu chữ là bắt buộc",
+  "primary_color_is_required": "Màu chính là bắt buộc",
+  "sidebar_background_color_is_required": "Màu nền thanh bên là bắt buộc",
+  "sidebar_text_color_is_required": "Màu chữ thanh bên là bắt buộc",
+  "updating_theme": "Đang cập nhật chủ đề",
+  "theme_updated_successfully": "Cập nhật chủ đề thành công",
+  "failed_to_update_the_theme": "Cập nhật chủ đề thất bại",
+  "email_notifications": "Thông báo qua email",
+  "stay_in_the_loop_on_issues_you_are_subscribed_to_enable_this_to_get_notified": "Luôn cập nhật về các mục Công việc mà bạn đã đăng ký.  Bật tính năng này để nhận thông báo.",
+  "email_notification_setting_updated_successfully": "Cài đặt thông báo email được cập nhật thành công",
+  "failed_to_update_email_notification_setting": "Không thể cập nhật cài đặt thông báo email",
+  "notify_me_when": "Thông báo cho tôi khi",
+  "property_changes": "Thay đổi thuộc tính",
+  "property_changes_description": "Thông báo cho tôi khi các thuộc tính của mục công việc như người được giao, mức độ ưu tiên, ước tính hoặc bất kỳ thứ gì khác thay đổi.",
+  "state_change": "Thay đổi trạng thái",
+  "state_change_description": "Thông báo cho tôi khi các mục công việc chuyển sang trạng thái khác",
+  "issue_completed": "Mục công việc đã hoàn thành",
+  "issue_completed_description": "Chỉ thông báo cho tôi khi một mục công việc được hoàn thành",
+  "comments": "Bình luận",
+  "comments_description": "Thông báo cho tôi khi ai đó để lại bình luận về mục công việc",
+  "mentions": "Đề cập",
+  "mentions_description": "Chỉ thông báo cho tôi khi ai đó đề cập đến tôi trong phần bình luận hoặc mô tả",
+  "old_password": "Mật khẩu cũ",
+  "general_settings": "Cài đặt chung",
+  "sign_out": "Đăng xuất",
+  "signing_out": "Đang đăng xuất",
+  "active_cycles": "Chu kỳ hoạt động",
+  "active_cycles_description": "Theo dõi các chu kỳ trong các dự án, theo dõi các mục công việc có mức độ ưu tiên cao và phóng to các chu kỳ cần chú ý.",
+  "on_demand_snapshots_of_all_your_cycles": "Ảnh chụp nhanh theo yêu cầu của tất cả các chu kỳ của bạn",
+  "upgrade": "Nâng cấp",
+  "10000_feet_view": "Góc nhìn tổng quan 10.000 feet",
+  "10000_feet_view_description": "Thu nhỏ để xem các chu kỳ đang chạy trên tất cả các dự án của bạn cùng một lúc thay vì đi từ Chu kỳ này sang Chu kỳ khác trong mỗi dự án.",
+  "get_snapshot_of_each_active_cycle": "Nhận ảnh chụp nhanh của từng chu kỳ đang hoạt động.",
+  "get_snapshot_of_each_active_cycle_description": "Theo dõi các chỉ số cấp cao cho tất cả các chu kỳ đang hoạt động, xem trạng thái tiến độ của chúng và nắm bắt phạm vi so với thời hạn.",
+  "compare_burndowns": "So sánh biểu đồ burndown.",
+  "compare_burndowns_description": "Theo dõi hiệu suất của từng nhóm của bạn với một cái nhìn vào báo cáo burndown của mỗi chu kỳ.",
+  "quickly_see_make_or_break_issues": "Nhanh chóng xem các mục công việc quan trọng.",
+  "quickly_see_make_or_break_issues_description": "Xem trước các mục công việc có mức độ ưu tiên cao cho mỗi chu kỳ so với ngày đến hạn.  Xem tất cả chúng trên mỗi chu kỳ trong một cú nhấp chuột.",
+  "zoom_into_cycles_that_need_attention": "Phóng to các chu kỳ cần chú ý.",
+  "zoom_into_cycles_that_need_attention_description": "Điều tra trạng thái của bất kỳ chu kỳ nào không phù hợp với mong đợi chỉ bằng một cú nhấp chuột.",
+  "stay_ahead_of_blockers": "Luôn đón đầu những trở ngại.",
+  "stay_ahead_of_blockers_description": "Phát hiện các thách thức từ dự án này sang dự án khác và xem các mối phụ thuộc giữa các chu kỳ không rõ ràng từ bất kỳ chế độ xem nào khác.",
+  "analytics": "Phân tích",
+  "workspace_invites": "Lời mời không gian làm việc",
+  "enter_god_mode": "Vào chế độ quản trị",
+  "workspace_logo": "Logo không gian làm việc",
+  "new_issue": "Mục công việc mới",
+  "your_work": "Công việc của bạn",
+  "drafts": "Bản nháp",
+  "projects": "Dự án",
+  "views": "Chế độ xem",
+  "workspace": "Không gian làm việc",
+  "archives": "Lưu trữ",
+  "settings": "Cài đặt",
+  "failed_to_move_favorite": "Không thể di chuyển mục yêu thích",
+  "favorites": "Yêu thích",
+  "no_favorites_yet": "Chưa có mục yêu thích nào",
+  "create_folder": "Tạo thư mục",
+  "new_folder": "Thư mục mới",
+  "favorite_updated_successfully": "Mục yêu thích được cập nhật thành công",
+  "favorite_created_successfully": "Mục yêu thích được tạo thành công",
+  "folder_already_exists": "Thư mục đã tồn tại",
+  "folder_name_cannot_be_empty": "Tên thư mục không được để trống",
+  "something_went_wrong": "Đã xảy ra lỗi",
+  "failed_to_reorder_favorite": "Không thể sắp xếp lại mục yêu thích",
+  "favorite_removed_successfully": "Mục yêu thích đã được xóa thành công",
+  "failed_to_create_favorite": "Không thể tạo mục yêu thích",
+  "failed_to_rename_favorite": "Không thể đổi tên mục yêu thích",
+  "project_link_copied_to_clipboard": "Đã sao chép liên kết dự án vào khay nhớ tạm",
+  "link_copied": "Đã sao chép liên kết",
+  "add_project": "Thêm dự án",
+  "create_project": "Tạo dự án",
+  "failed_to_remove_project_from_favorites": "Không thể xóa dự án khỏi mục yêu thích.  Vui lòng thử lại.",
+  "project_created_successfully": "Dự án được tạo thành công",
+  "project_created_successfully_description": "Dự án được tạo thành công.  Bây giờ bạn có thể bắt đầu thêm các mục công việc vào đó.",
+  "project_cover_image_alt": "Ảnh bìa dự án",
+  "name_is_required": "Tên là bắt buộc",
+  "title_should_be_less_than_255_characters": "Tiêu đề phải ít hơn 255 ký tự",
+  "project_name": "Tên dự án",
+  "project_id_must_be_at_least_1_character": "ID dự án phải có ít nhất 1 ký tự",
+  "project_id_must_be_at_most_5_characters": "ID dự án có tối đa 5 ký tự",
+  "project_id": "ID dự án",
+  "project_id_tooltip_content": "Giúp bạn xác định các mục công việc trong dự án một cách duy nhất.  Tối đa 5 ký tự.",
+  "description_placeholder": "Mô tả",
+  "only_alphanumeric_non_latin_characters_allowed": "Chỉ cho phép các ký tự chữ và số & không phải Latin.",
+  "project_id_is_required": "ID dự án là bắt buộc",
+  "project_id_allowed_char": "Chỉ cho phép các ký tự chữ và số & không phải Latin.",
+  "project_id_min_char": "ID dự án phải có ít nhất 1 ký tự",
+  "project_id_max_char": "ID dự án có tối đa 5 ký tự",
+  "project_description_placeholder": "Nhập mô tả dự án",
+  "select_network": "Chọn mạng",
+  "lead": "Trưởng nhóm",
+  "date_range": "Phạm vi ngày",
+  "private": "Riêng tư",
+  "public": "Công khai",
+  "accessible_only_by_invite": "Chỉ có thể truy cập bằng lời mời",
+  "anyone_in_the_workspace_except_guests_can_join": "Bất kỳ ai trong không gian làm việc trừ Khách đều có thể tham gia",
+  "creating": "Đang tạo",
+  "creating_project": "Đang tạo dự án",
+  "adding_project_to_favorites": "Đang thêm dự án vào mục yêu thích",
+  "project_added_to_favorites": "Đã thêm dự án vào mục yêu thích",
+  "couldnt_add_the_project_to_favorites": "Không thể thêm dự án vào mục yêu thích.  Vui lòng thử lại.",
+  "removing_project_from_favorites": "Đang xóa dự án khỏi mục yêu thích",
+  "project_removed_from_favorites": "Đã xóa dự án khỏi mục yêu thích",
+  "couldnt_remove_the_project_from_favorites": "Không thể xóa dự án khỏi mục yêu thích.  Vui lòng thử lại.",
+  "add_to_favorites": "Thêm vào mục yêu thích",
+  "remove_from_favorites": "Xóa khỏi mục yêu thích",
+  "publish_settings": "Cài đặt xuất bản",
+  "publish": "Xuất bản",
+  "copy_link": "Sao chép liên kết",
+  "leave_project": "Rời khỏi dự án",
+  "join_the_project_to_rearrange": "Tham gia dự án để sắp xếp lại",
+  "drag_to_rearrange": "Kéo để sắp xếp lại",
+  "congrats": "Chúc mừng!",
+  "open_project": "Mở dự án",
+  "issues": "Mục công việc",
+  "cycles": "Chu kỳ",
+  "modules": "Mô-đun",
+  "pages": "Trang",
+  "intake": "Đầu vào",
+  "time_tracking": "Theo dõi thời gian",
+  "work_management": "Quản lý công việc",
+  "projects_and_issues": "Dự án và mục công việc",
+  "projects_and_issues_description": "Bật hoặc tắt các tính năng này cho dự án.",
+  "cycles_description": "Thời gian làm việc theo cách bạn thấy phù hợp cho mỗi dự án và thay đổi tần suất từ ​​giai đoạn này sang giai đoạn tiếp theo.",
+  "modules_description": "Nhóm công việc thành các thiết lập giống như dự án con với trưởng nhóm và người được giao riêng.",
+  "views_description": "Lưu các cách sắp xếp, bộ lọc và tùy chọn hiển thị để sử dụng sau này hoặc chia sẻ chúng.",
+  "pages_description": "Viết bất cứ điều gì giống như bạn viết bất cứ điều gì.",
+  "intake_description": "Luôn cập nhật về các mục Công việc mà bạn đã đăng ký.  Bật tính năng này để nhận thông báo.",
+  "time_tracking_description": "Theo dõi thời gian dành cho các mục công việc và dự án.",
+  "work_management_description": "Quản lý công việc và dự án của bạn một cách dễ dàng.",
+  "documentation": "Tài liệu",
+  "message_support": "Hỗ trợ tin nhắn",
+  "contact_sales": "Liên hệ bộ phận bán hàng",
+  "hyper_mode": "Chế độ Siêu tốc",
+  "keyboard_shortcuts": "Phím tắt",
+  "whats_new": "Có gì mới?",
+  "version": "Phiên bản",
+  "we_are_having_trouble_fetching_the_updates": "Chúng tôi đang gặp sự cố khi tìm nạp các bản cập nhật.",
+  "our_changelogs": "nhật ký thay đổi của chúng tôi",
+  "for_the_latest_updates": "để có các bản cập nhật mới nhất.",
+  "please_visit": "Vui lòng truy cập",
+  "docs": "Tài liệu",
+  "full_changelog": "Nhật ký thay đổi đầy đủ",
+  "support": "Hỗ trợ",
+  "discord": "Discord",
+  "powered_by_plane_pages": "Được cung cấp bởi Plane Pages",
+  "please_select_at_least_one_invitation": "Vui lòng chọn ít nhất một lời mời.",
+  "please_select_at_least_one_invitation_description": "Vui lòng chọn ít nhất một lời mời để tham gia không gian làm việc.",
+  "we_see_that_someone_has_invited_you_to_join_a_workspace": "Chúng tôi thấy rằng ai đó đã mời bạn tham gia một không gian làm việc",
+  "join_a_workspace": "Tham gia một không gian làm việc",
+  "we_see_that_someone_has_invited_you_to_join_a_workspace_description": "Chúng tôi thấy rằng ai đó đã mời bạn tham gia một không gian làm việc",
+  "join_a_workspace_description": "Tham gia một không gian làm việc",
+  "accept_and_join": "Chấp nhận & Tham gia",
+  "go_home": "Về trang chủ",
+  "no_pending_invites": "Không có lời mời đang chờ xử lý",
+  "you_can_see_here_if_someone_invites_you_to_a_workspace": "Bạn có thể xem ở đây nếu có ai đó mời bạn tham gia một không gian làm việc",
+  "back_to_home": "Quay lại trang chủ",
+  "workspace_name": "tên-không-gian-làm-việc",
+  "deactivate_your_account": "Vô hiệu hóa tài khoản của bạn",
+  "deactivate_your_account_description": "Sau khi bị vô hiệu hóa, bạn không thể được giao các mục công việc và bị tính phí cho không gian làm việc của mình.  Để kích hoạt lại tài khoản của bạn, bạn sẽ cần một lời mời đến một không gian làm việc tại địa chỉ email này.",
+  "deactivating": "Đang vô hiệu hóa",
+  "confirm": "Xác nhận",
+  "confirming": "Đang xác nhận",
+  "draft_created": "Đã tạo bản nháp",
+  "issue_created_successfully": "Mục công việc được tạo thành công",
+  "draft_creation_failed": "Tạo bản nháp thất bại",
+  "issue_creation_failed": "Tạo mục công việc thất bại",
+  "draft_issue": "Mục công việc nháp",
+  "issue_updated_successfully": "Mục công việc được cập nhật thành công",
+  "issue_could_not_be_updated": "Không thể cập nhật mục công việc",
+  "create_a_draft": "Tạo một bản nháp",
+  "save_to_drafts": "Lưu vào Bản nháp",
+  "save": "Lưu",
+  "update": "Cập nhật",
+  "updating": "Đang cập nhật",
+  "create_new_issue": "Tạo mục công việc mới",
+  "editor_is_not_ready_to_discard_changes": "Trình chỉnh sửa chưa sẵn sàng để loại bỏ các thay đổi",
+  "failed_to_move_issue_to_project": "Không thể di chuyển mục công việc sang dự án",
+  "create_more": "Tạo thêm",
+  "add_to_project": "Thêm vào dự án",
+  "discard": "Hủy bỏ",
+  "duplicate_issue_found": "Tìm thấy mục công việc trùng lặp",
+  "duplicate_issues_found": "Tìm thấy các mục công việc trùng lặp",
+  "no_matching_results": "Không có kết quả phù hợp",
+  "title_is_required": "Tiêu đề là bắt buộc",
+  "title": "Tiêu đề",
+  "state": "Trạng thái",
+  "priority": "Ưu tiên",
+  "none": "Không có",
+  "urgent": "Khẩn cấp",
+  "high": "Cao",
+  "medium": "Trung bình",
+  "low": "Thấp",
+  "members": "Thành viên",
+  "assignee": "Người được giao",
+  "assignees": "Những người được giao",
+  "you": "Bạn",
+  "labels": "Nhãn",
+  "create_new_label": "Tạo nhãn mới",
+  "start_date": "Ngày bắt đầu",
+  "end_date": "Ngày kết thúc",
+  "due_date": "Ngày đến hạn",
+  "estimate": "Ước tính",
+  "change_parent_issue": "Thay đổi mục công việc cha",
+  "remove_parent_issue": "Xóa mục công việc cha",
+  "add_parent": "Thêm cha",
+  "loading_members": "Đang tải thành viên",
+  "view_link_copied_to_clipboard": "Đã sao chép liên kết chế độ xem vào khay nhớ tạm.",
+  "required": "Bắt buộc",
+  "optional": "Tùy chọn",
+  "Cancel": "Hủy",
+  "edit": "Chỉnh sửa",
+  "archive": "Lưu trữ",
+  "restore": "Khôi phục",
+  "open_in_new_tab": "Mở trong tab mới",
+  "delete": "Xóa",
+  "deleting": "Đang xóa",
+  "make_a_copy": "Tạo bản sao",
+  "move_to_project": "Chuyển đến dự án",
+  "good": "Chúc",
+  "morning": "một ngày tốt lành",
+  "afternoon": "buổi chiều tốt lành",
+  "evening": "buổi tối tốt lành",
+  "show_all": "Hiển thị tất cả",
+  "show_less": "Hiển thị ít hơn",
+  "no_data_yet": "Chưa có dữ liệu",
+  "syncing": "Đang đồng bộ hóa",
+  "add_work_item": "Thêm mục công việc",
+  "advanced_description_placeholder": "Nhấn '/' để xem các lệnh",
+  "create_work_item": "Tạo mục công việc",
+  "attachments": "Tệp đính kèm",
+  "declining": "Đang từ chối",
+  "declined": "Đã từ chối",
+  "decline": "Từ chối",
+  "unassigned": "Chưa được giao",
+  "work_items": "Mục công việc",
+  "add_link": "Thêm liên kết",
+  "points": "Điểm",
+  "no_assignee": "Không có người được giao",
+  "no_assignees_yet": "Chưa có người được giao",
+  "no_labels_yet": "Chưa có nhãn",
+  "ideal": "Lý tưởng",
+  "current": "Hiện tại",
+  "no_matching_members": "Không có thành viên phù hợp",
+  "leaving": "Đang rời đi",
+  "removing": "Đang xóa",
+  "leave": "Rời đi",
+  "refresh": "Làm mới",
+  "refreshing": "Đang làm mới",
+  "refresh_status": "Làm mới trạng thái",
+  "prev": "Trước",
+  "next": "Tiếp theo",
+  "re_generating": "Đang tạo lại",
+  "re_generate": "Tạo lại",
+  "re_generate_key": "Tạo lại khóa",
+  "export": "Xuất",
+  "member": "{count, plural, one {# thành viên} other {# thành viên}}",
+  "project_view": {
+    "sort_by": {
+      "created_at": "Ngày tạo",
+      "updated_at": "Ngày cập nhật",
+      "name": "Tên"
+    }
+  },
+  "toast": {
+    "success": "Thành công!",
+    "error": "Lỗi!"
+  },
+  "links": {
+    "toasts": {
+      "created": {
+        "title": "Đã tạo liên kết",
+        "message": "Liên kết đã được tạo thành công"
+      },
+      "not_created": {
+        "title": "Liên kết không được tạo",
+        "message": "Không thể tạo liên kết"
+      },
+      "updated": {
+        "title": "Đã cập nhật liên kết",
+        "message": "Liên kết đã được cập nhật thành công"
+      },
+      "not_updated": {
+        "title": "Liên kết không được cập nhật",
+        "message": "Không thể cập nhật liên kết"
+      },
+      "removed": {
+        "title": "Đã xóa liên kết",
+        "message": "Liên kết đã được xóa thành công"
+      },
+      "not_removed": {
+        "title": "Liên kết không bị xóa",
+        "message": "Không thể xóa liên kết"
+      }
+    }
+  },
+  "home": {
+    "empty": {
+      "quickstart_guide": "Hướng dẫn bắt đầu nhanh của bạn",
+      "not_right_now": "Không phải bây giờ",
+      "create_project": {
+        "title": "Tạo một dự án",
+        "description": "Hầu hết mọi thứ bắt đầu bằng một dự án trong Plane.",
+        "cta": "Bắt đầu"
+      },
+      "invite_team": {
+        "title": "Mời nhóm của bạn",
+        "description": "Xây dựng, vận chuyển và quản lý với đồng nghiệp.",
+        "cta": "Mời họ vào"
+      },
+      "configure_workspace": {
+        "title": "Thiết lập không gian làm việc của bạn.",
+        "description": "Bật hoặc tắt các tính năng hoặc vượt ra ngoài điều đó.",
+        "cta": "Định cấu hình không gian làm việc này"
+      },
+      "personalize_account": {
+        "title": "Biến Plane thành của bạn.",
+        "description": "Chọn ảnh, màu sắc và hơn thế nữa.",
+        "cta": "Cá nhân hóa ngay bây giờ"
+      },
+      "widgets": {
+        "title": "Thật yên tĩnh khi không có Tiện ích, hãy Bật chúng lên",
+        "description": "Có vẻ như tất cả các tiện ích của bạn đã bị tắt.  Hãy bật chúng\nbây giờ để nâng cao trải nghiệm của bạn!",
+        "primary_button": {
+          "text": "Quản lý tiện ích"
+        }
+      }
+    },
+    "quick_links": {
+      "empty": "Lưu liên kết đến những thứ công việc mà bạn muốn có sẵn.",
+      "add": "Thêm liên kết nhanh",
+      "title": "Liên kết nhanh",
+      "title_plural": "Các liên kết nhanh"
+    },
+    "recents": {
+      "title": "Gần đây",
+      "empty": {
+        "project": "Các dự án gần đây của bạn sẽ xuất hiện ở đây sau khi bạn truy cập một dự án.",
+        "page": "Các trang gần đây của bạn sẽ xuất hiện ở đây sau khi bạn truy cập một trang.",
+        "issue": "Các mục công việc gần đây của bạn sẽ xuất hiện ở đây sau khi bạn truy cập một mục.",
+        "default": "Bạn chưa có bất kỳ mục gần đây nào."
+      },
+      "filters": {
+        "all": "Tất cả các mục",
+        "projects": "Dự án",
+        "pages": "Trang",
+        "issues": "Mục công việc"
+      }
+    },
+    "new_at_plane": {
+      "title": "Mới tại Plane"
+    },
+    "quick_tutorial": {
+      "title": "Hướng dẫn nhanh"
+    },
+    "widget": {
+      "reordered_successfully": "Đã sắp xếp lại tiện ích thành công.",
+      "reordering_failed": "Đã xảy ra lỗi khi sắp xếp lại tiện ích."
+    },
+    "manage_widgets": "Quản lý tiện ích",
+    "title": "Trang chủ",
+    "star_us_on_github": "Đánh dấu sao cho chúng tôi trên GitHub"
+  },
+  "link": {
+    "modal": {
+      "url": {
+        "text": "URL",
+        "required": "URL không hợp lệ",
+        "placeholder": "Nhập hoặc dán URL"
+      },
+      "title": {
+        "text": "Tiêu đề hiển thị",
+        "placeholder": "Bạn muốn liên kết này hiển thị như thế nào"
+      }
+    }
+  },
+  "common": {
+    "all": "Tất cả",
+    "states": "Các trạng thái",
+    "state": "Trạng thái",
+    "state_groups": "Nhóm trạng thái",
+    "state_group": "Nhóm trạng thái",
+    "priorities": "Mức độ ưu tiên",
+    "priority": "Ưu tiên",
+    "team_project": "Dự án nhóm",
+    "project": "Dự án",
+    "cycle": "Chu kỳ",
+    "cycles": "Các chu kỳ",
+    "module": "Mô-đun",
+    "modules": "Các mô-đun",
+    "labels": "Nhãn",
+    "label": "Nhãn",
+    "assignees": "Những người được giao",
+    "assignee": "Người được giao",
+    "created_by": "Tạo bởi",
+    "none": "Không có",
+    "link": "Liên kết",
+    "estimates": "Ước tính",
+    "estimate": "Ước tính",
+    "created_at": "Ngày tạo",
+    "completed_at": "Ngày hoàn thành",
+    "layout": "Bố cục",
+    "filters": "Bộ lọc",
+    "display": "Hiển thị",
+    "load_more": "Tải thêm",
+    "activity": "Hoạt động",
+    "analytics": "Phân tích",
+    "dates": "Ngày",
+    "success": "Thành công!",
+    "something_went_wrong": "Đã xảy ra lỗi",
+    "error": {
+      "label": "Lỗi!",
+      "message": "Đã xảy ra lỗi.  Vui lòng thử lại."
+    },
+    "group_by": "Nhóm theo",
+    "epic": "Epic",
+    "epics": "Epics",
+    "work_item": "Mục công việc",
+    "work_items": "Mục công việc",
+    "sub_work_item": "Mục công việc con",
+    "add": "Thêm",
+    "warning": "Cảnh báo",
+    "updating": "Đang cập nhật",
+    "adding": "Đang thêm",
+    "update": "Cập nhật",
+    "creating": "Đang tạo",
+    "create": "Tạo",
+    "cancel": "Hủy",
+    "description": "Mô tả",
+    "title": "Tiêu đề",
+    "attachment": "Tệp đính kèm",
+    "general": "Chung",
+    "features": "Tính năng",
+    "automation": "Tự động hóa",
+    "project_name": "Tên dự án",
+    "project_id": "ID dự án",
+    "project_timezone": "Múi giờ dự án",
+    "created_on": "Tạo vào",
+    "update_project": "Cập nhật dự án",
+    "identifier_already_exists": "Định danh đã tồn tại",
+    "add_more": "Thêm nữa",
+    "defaults": "Mặc định",
+    "add_label": "Thêm nhãn",
+    "customize_time_range": "Tùy chỉnh phạm vi thời gian",
+    "loading": "Đang tải",
+    "attachments": "Tệp đính kèm",
+    "property": "Thuộc tính",
+    "properties": "Thuộc tính",
+    "parent": "Cha",
+    "page": "Trang",
+    "remove": "Xóa",
+    "archiving": "Đang lưu trữ",
+    "archive": "Lưu trữ",
+    "access": {
+      "public": "Công khai",
+      "private": "Riêng tư"
+    },
+    "done": "Hoàn thành",
+    "sub_work_items": "Mục công việc con",
+    "comment": "Bình luận",
+    "workspace_level": "Cấp độ không gian làm việc",
+    "order_by": {
+      "label": "Sắp xếp theo",
+      "manual": "Thủ công",
+      "last_created": "Mới nhất",
+      "last_updated": "Cập nhật gần nhất",
+      "start_date": "Ngày bắt đầu",
+      "due_date": "Ngày đến hạn",
+      "asc": "Tăng dần",
+      "desc": "Giảm dần",
+      "updated_on": "Cập nhật vào"
+    },
+    "sort": {
+      "asc": "Tăng dần",
+      "desc": "Giảm dần",
+      "created_on": "Ngày tạo",
+      "updated_on": "Ngày cập nhật"
+    },
+    "comments": "Bình luận",
+    "updates": "Cập nhật",
+    "clear_all": "Xóa tất cả",
+    "copied": "Đã sao chép!",
+    "link_copied": "Đã sao chép liên kết!",
+    "link_copied_to_clipboard": "Đã sao chép liên kết vào khay nhớ tạm",
+    "copied_to_clipboard": "Đã sao chép liên kết mục công việc vào khay nhớ tạm",
+    "is_copied_to_clipboard": "Mục công việc được sao chép vào khay nhớ tạm",
+    "no_links_added_yet": "Chưa có liên kết nào được thêm",
+    "add_link": "Thêm liên kết",
+    "links": "Liên kết",
+    "go_to_workspace": "Đi tới không gian làm việc",
+    "progress": "Tiến độ",
+    "optional": "Tùy chọn",
+    "join": "Tham gia",
+    "go_back": "Quay lại",
+    "continue": "Tiếp tục",
+    "resend": "Gửi lại",
+    "relations": "Quan hệ",
+    "errors": {
+      "default": {
+        "title": "Lỗi!",
+        "message": "Đã xảy ra lỗi. Vui lòng thử lại."
+      },
+      "required": "Trường này là bắt buộc",
+      "entity_required": "{entity} là bắt buộc"
+    },
+    "update_link": "Cập nhật liên kết",
+    "attach": "Đính kèm",
+    "create_new": "Tạo mới",
+    "add_existing": "Thêm cái có sẵn",
+    "type_or_paste_a_url": "Nhập hoặc dán URL",
+    "url_is_invalid": "URL không hợp lệ",
+    "display_title": "Tiêu đề hiển thị",
+    "link_title_placeholder": "Bạn muốn liên kết này hiển thị như thế nào",
+    "url": "URL",
+    "side_peek": "Xem trước bên cạnh",
+    "modal": "Hộp thoại",
+    "full_screen": "Toàn màn hình",
+    "close_peek_view": "Đóng chế độ xem trước",
+    "toggle_peek_view_layout": "Chuyển đổi bố cục chế độ xem trước",
+    "options": "Tùy chọn",
+    "duration": "Thời lượng",
+    "today": "Hôm nay",
+    "week": "Tuần",
+    "month": "Tháng",
+    "quarter": "Quý",
+    "press_for_commands": "Nhấn '/' để xem các lệnh",
+    "click_to_add_description": "Nhấp để thêm mô tả",
+    "search": {
+      "label": "Tìm kiếm",
+      "placeholder": "Nhập để tìm kiếm",
+      "no_matches_found": "Không tìm thấy kết quả phù hợp",
+      "no_matching_results": "Không có kết quả phù hợp"
+    },
+    "actions": {
+      "edit": "Chỉnh sửa",
+      "make_a_copy": "Tạo bản sao",
+      "open_in_new_tab": "Mở trong tab mới",
+      "copy_link": "Sao chép liên kết",
+      "archive": "Lưu trữ",
+      "restore": "Khôi phục",
+      "delete": "Xóa",
+      "remove_relation": "Xóa quan hệ",
+      "subscribe": "Đăng ký",
+      "unsubscribe": "Hủy đăng ký",
+      "clear_sorting": "Xóa sắp xếp",
+      "show_weekends": "Hiển thị cuối tuần",
+      "enable": "Bật",
+      "disable": "Tắt"
+    },
+    "name": "Tên",
+    "discard": "Hủy bỏ",
+    "confirm": "Xác nhận",
+    "confirming": "Đang xác nhận",
+    "read_the_docs": "Đọc tài liệu",
+    "default": "Mặc định",
+    "active": "Đang hoạt động",
+    "enabled": "Đã bật",
+    "disabled": "Đã tắt",
+    "mandate": "Bắt buộc",
+    "mandatory": "Bắt buộc",
+    "yes": "Có",
+    "no": "Không",
+    "please_wait": "Vui lòng đợi",
+    "enabling": "Đang bật",
+    "disabling": "Đang tắt",
+    "beta": "Bản thử nghiệm",
+    "or": "hoặc",
+    "next": "Tiếp theo",
+    "back": "Quay lại",
+    "cancelling": "Đang hủy",
+    "configuring": "Đang định cấu hình",
+    "clear": "Xóa",
+    "import": "Nhập",
+    "connect": "Kết nối",
+    "authorizing": "Đang ủy quyền",
+    "processing": "Đang xử lý",
+    "no_data_available": "Không có dữ liệu",
+    "from": "từ {name}",
+    "authenticated": "Đã xác thực",
+    "select": "Chọn",
+    "upgrade": "Nâng cấp",
+    "add_seats": "Thêm chỗ",
+    "projects": "Dự án",
+    "workspace": "Không gian làm việc",
+    "workspaces": "Không gian làm việc",
+    "team": "Nhóm",
+    "teams": "Các nhóm",
+    "entity": "Thực thể",
+    "entities": "Thực thể",
+    "task": "Nhiệm vụ",
+    "tasks": "Nhiệm vụ",
+    "section": "Phần",
+    "sections": "Phần",
+    "edit": "Chỉnh sửa",
+    "connecting": "Đang kết nối",
+    "connected": "Đã kết nối",
+    "disconnect": "Ngắt kết nối",
+    "disconnecting": "Đang ngắt kết nối",
+    "installing": "Đang cài đặt",
+    "install": "Cài đặt",
+    "reset": "Đặt lại",
+    "live": "Trực tiếp",
+    "change_history": "Lịch sử thay đổi",
+    "coming_soon": "Sắp ra mắt",
+    "members": "Thành viên",
+    "you": "Bạn",
+    "upgrade_cta": {
+      "higher_subscription": "Nâng cấp lên gói đăng ký cao hơn",
+      "talk_to_sales": "Nói chuyện với bộ phận bán hàng"
+    },
+    "category": "Danh mục",
+    "categories": "Danh mục",
+    "saving": "Đang lưu",
+    "save_changes": "Lưu thay đổi",
+    "delete": "Xóa",
+    "deleting": "Đang xóa",
+    "pending": "Đang chờ xử lý",
+    "invite": "Mời",
+    "view": "Xem"
+  },
+  "chart": {
+    "x_axis": "Trục X",
+    "y_axis": "Trục Y",
+    "metric": "Chỉ số"
+  },
+  "form": {
+    "title": {
+      "required": "Tiêu đề là bắt buộc",
+      "max_length": "Tiêu đề phải ít hơn {length} ký tự"
+    }
+  },
+  "entity": {
+    "grouping_title": "Nhóm {entity}",
+    "priority": "Mức độ ưu tiên {entity}",
+    "all": "Tất cả {entity}",
+    "drop_here_to_move": "Thả vào đây để di chuyển {entity}",
+    "delete": {
+      "label": "Xóa {entity}",
+      "success": "Đã xóa {entity} thành công",
+      "failed": "Xóa {entity} thất bại"
+    },
+    "update": {
+      "failed": "Cập nhật {entity} thất bại",
+      "success": "Đã cập nhật {entity} thành công"
+    },
+    "link_copied_to_clipboard": "Đã sao chép liên kết {entity} vào khay nhớ tạm",
+    "fetch": {
+      "failed": "Lỗi khi tìm nạp {entity}"
+    },
+    "add": {
+      "success": "{entity} đã được thêm thành công",
+      "failed": "Lỗi khi thêm {entity}"
+    }
+  },
+  "epic": {
+    "all": "Tất cả Epics",
+    "label": "{count, plural, one {Epic} other {Epics}}",
+    "new": "Epic mới",
+    "adding": "Đang thêm epic",
+    "create": {
+      "success": "Epic được tạo thành công"
+    },
+    "add": {
+      "press_enter": "Nhấn 'Enter' để thêm một epic khác",
+      "label": "Thêm Epic"
+    },
+    "title": {
+      "label": "Tiêu đề Epic",
+      "required": "Tiêu đề Epic là bắt buộc."
+    }
+  },
+  "issue": {
+    "label": "{count, plural, one {Mục công việc} other {Mục công việc}}",
+    "all": "Tất cả mục công việc",
+    "edit": "Chỉnh sửa mục công việc",
+    "title": {
+      "label": "Tiêu đề mục công việc",
+      "required": "Tiêu đề mục công việc là bắt buộc."
+    },
+    "add": {
+      "press_enter": "Nhấn 'Enter' để thêm một mục công việc khác",
+      "label": "Thêm mục công việc",
+      "cycle": {
+        "failed": "Không thể thêm mục công việc vào chu kỳ. Vui lòng thử lại.",
+        "success": "{count, plural, one {Mục công việc} other {Mục công việc}} đã được thêm vào chu kỳ thành công.",
+        "loading": "Đang thêm {count, plural, one {mục công việc} other {mục công việc}} vào chu kỳ"
+      },
+      "assignee": "Thêm người được giao",
+      "start_date": "Thêm ngày bắt đầu",
+      "due_date": "Thêm ngày đến hạn",
+      "parent": "Thêm mục công việc cha",
+      "sub_issue": "Thêm mục công việc con",
+      "relation": "Thêm quan hệ",
+      "link": "Thêm liên kết",
+      "existing": "Thêm mục công việc hiện có"
+    },
+    "remove": {
+      "label": "Xóa mục công việc",
+      "cycle": {
+        "loading": "Đang xóa mục công việc khỏi chu kỳ",
+        "success": "Mục công việc đã được xóa khỏi chu kỳ thành công.",
+        "failed": "Không thể xóa mục công việc khỏi chu kỳ. Vui lòng thử lại."
+      },
+      "module": {
+        "loading": "Đang xóa mục công việc khỏi mô-đun",
+        "success": "Mục công việc đã được xóa khỏi mô-đun thành công.",
+        "failed": "Không thể xóa mục công việc khỏi mô-đun. Vui lòng thử lại."
+      },
+      "parent": {
+        "label": "Xóa mục công việc cha"
+      }
+    },
+    "new": "Mục công việc mới",
+    "adding": "Đang thêm mục công việc",
+    "create": {
+      "success": "Mục công việc được tạo thành công"
+    },
+    "priority": {
+      "urgent": "Khẩn cấp",
+      "high": "Cao",
+      "medium": "Trung bình",
+      "low": "Thấp"
+    },
+    "display": {
+      "properties": {
+        "label": "Hiển thị thuộc tính",
+        "id": "ID",
+        "issue_type": "Loại mục công việc",
+        "sub_issue_count": "Số lượng mục công việc con",
+        "attachment_count": "Số lượng tệp đính kèm",
+        "created_on": "Ngày tạo",
+        "sub_issue": "Mục công việc con",
+        "work_item_count": "Số lượng mục công việc"
+      },
+      "extra": {
+        "show_sub_issues": "Hiển thị mục công việc con",
+        "show_empty_groups": "Hiển thị các nhóm trống"
+      }
+    },
+    "layouts": {
+      "ordered_by_label": "Bố cục này được sắp xếp theo",
+      "list": "Danh sách",
+      "kanban": "Bảng",
+      "calendar": "Lịch",
+      "spreadsheet": "Bảng tính",
+      "gantt": "Biểu đồ Gantt",
+      "title": {
+        "list": "Bố cục danh sách",
+        "kanban": "Bố cục bảng",
+        "calendar": "Bố cục lịch",
+        "spreadsheet": "Bố cục bảng tính",
+        "gantt": "Bố cục biểu đồ Gantt"
+      }
+    },
+    "states": {
+      "active": "Đang hoạt động",
+      "backlog": "Tồn đọng"
+    },
+    "comments": {
+      "placeholder": "Thêm bình luận",
+      "switch": {
+        "private": "Chuyển sang bình luận riêng tư",
+        "public": "Chuyển sang bình luận công khai"
+      },
+      "create": {
+        "success": "Bình luận được tạo thành công",
+        "error": "Tạo bình luận thất bại. Vui lòng thử lại sau."
+      },
+      "update": {
+        "success": "Bình luận được cập nhật thành công",
+        "error": "Cập nhật bình luận thất bại. Vui lòng thử lại sau."
+      },
+      "remove": {
+        "success": "Bình luận đã được xóa thành công",
+        "error": "Xóa bình luận thất bại. Vui lòng thử lại sau."
+      },
+      "upload": {
+        "error": "Tải lên tài sản thất bại. Vui lòng thử lại sau."
+      }
+    },
+    "empty_state": {
+      "issue_detail": {
+        "title": "Mục công việc không tồn tại",
+        "description": "Mục công việc bạn đang tìm kiếm không tồn tại, đã được lưu trữ hoặc đã bị xóa.",
+        "primary_button": {
+          "text": "Xem các mục công việc khác"
+        }
+      }
+    },
+    "sibling": {
+      "label": "Mục công việc anh em"
+    },
+    "archive": {
+      "description": "Chỉ các mục công việc đã hoàn thành hoặc bị hủy\nmới có thể được lưu trữ",
+      "label": "Lưu trữ mục công việc",
+      "confirm_message": "Bạn có chắc chắn muốn lưu trữ mục công việc không? Tất cả các mục công việc đã lưu trữ của bạn có thể được khôi phục sau này.",
+      "success": {
+        "label": "Lưu trữ thành công",
+        "message": "Bạn có thể tìm thấy kho lưu trữ của mình trong kho lưu trữ dự án."
+      },
+      "failed": {
+        "message": "Không thể lưu trữ mục công việc. Vui lòng thử lại."
+      }
+    },
+    "restore": {
+      "success": {
+        "title": "Khôi phục thành công",
+        "message": "Bạn có thể tìm thấy mục công việc của mình trong các mục công việc của dự án."
+      },
+      "failed": {
+        "message": "Không thể khôi phục mục công việc. Vui lòng thử lại."
+      }
+    },
+    "relation": {
+      "relates_to": "Liên quan đến",
+      "duplicate": "Bản sao của",
+      "blocked_by": "Bị chặn bởi",
+      "blocking": "Đang chặn"
+    },
+    "copy_link": "Sao chép liên kết mục công việc",
+    "delete": {
+      "label": "Xóa mục công việc",
+      "error": "Lỗi khi xóa mục công việc"
+    },
+    "subscription": {
+      "actions": {
+        "subscribed": "Đã đăng ký mục công việc thành công",
+        "unsubscribed": "Đã hủy đăng ký mục công việc thành công"
+      }
+    },
+    "select": {
+      "error": "Vui lòng chọn ít nhất một mục công việc",
+      "empty": "Không có mục công việc nào được chọn",
+      "add_selected": "Thêm các mục công việc đã chọn"
+    },
+    "open_in_full_screen": "Mở mục công việc ở chế độ toàn màn hình"
+  },
+  "attachment": {
+    "error": "Không thể đính kèm tệp. Thử tải lên lại.",
+    "only_one_file_allowed": "Chỉ có thể tải lên một tệp tại một thời điểm.",
+    "file_size_limit": "Tệp phải có kích thước từ {size}MB trở xuống.",
+    "drag_and_drop": "Kéo và thả bất cứ đâu để tải lên",
+    "delete": "Xóa tệp đính kèm"
+  },
+  "label": {
+    "select": "Chọn nhãn",
+    "create": {
+      "success": "Nhãn được tạo thành công",
+      "failed": "Tạo nhãn thất bại",
+      "already_exists": "Nhãn đã tồn tại",
+      "type": "Nhập để thêm nhãn mới"
+    }
+  },
+  "sub_work_item": {
+    "update": {
+      "success": "Mục công việc con được cập nhật thành công",
+      "error": "Lỗi khi cập nhật mục công việc con"
+    },
+    "remove": {
+      "success": "Mục công việc con đã được xóa thành công",
+      "error": "Lỗi khi xóa mục công việc con"
+    }
+  },
+  "view": {
+    "label": "{count, plural, one {Chế độ xem} other {Chế độ xem}}",
+    "create": {
+      "label": "Tạo chế độ xem"
+    },
+    "update": {
+      "label": "Cập nhật chế độ xem"
+    }
+  },
+  "inbox_issue": {
+    "status": {
+      "pending": {
+        "title": "Đang chờ xử lý",
+        "description": "Đang chờ xử lý"
+      },
+      "declined": {
+        "title": "Đã từ chối",
+        "description": "Đã từ chối"
+      },
+      "snoozed": {
+        "title": "Đã tạm ẩn",
+        "description": "Còn {days, plural, one {# ngày} other {# ngày}}"
+      },
+      "accepted": {
+        "title": "Đã chấp nhận",
+        "description": "Đã chấp nhận"
+      },
+      "duplicate": {
+        "title": "Trùng lặp",
+        "description": "Trùng lặp"
+      }
+    },
+    "modals": {
+      "decline": {
+        "title": "Từ chối mục công việc",
+        "content": "Bạn có chắc chắn muốn từ chối mục công việc {value} không?"
+      },
+      "delete": {
+        "title": "Xóa mục công việc",
+        "content": "Bạn có chắc chắn muốn xóa mục công việc {value} không?",
+        "success": "Mục công việc đã được xóa thành công"
+      }
+    },
+    "errors": {
+      "snooze_permission": "Chỉ quản trị viên dự án mới có thể tạm ẩn/Hủy tạm ẩn các mục công việc",
+      "accept_permission": "Chỉ quản trị viên dự án mới có thể chấp nhận các mục công việc",
+      "decline_permission": "Chỉ quản trị viên dự án mới có thể từ chối các mục công việc"
+    },
+    "actions": {
+      "accept": "Chấp nhận",
+      "decline": "Từ chối",
+      "snooze": "Tạm ẩn",
+      "unsnooze": "Hủy tạm ẩn",
+      "copy": "Sao chép liên kết mục công việc",
+      "delete": "Xóa",
+      "open": "Mở mục công việc",
+      "mark_as_duplicate": "Đánh dấu là trùng lặp",
+      "move": "Di chuyển {value} đến các mục công việc của dự án"
+    },
+    "source": {
+      "in-app": "trong ứng dụng"
+    },
+    "order_by": {
+      "created_at": "Ngày tạo",
+      "updated_at": "Ngày cập nhật",
+      "id": "ID"
+    },
+    "label": "Đầu vào",
+    "page_label": "{workspace} - Đầu vào",
+    "modal": {
+      "title": "Tạo mục công việc đầu vào"
+    },
+    "tabs": {
+      "open": "Mở",
+      "closed": "Đã đóng"
+    },
+    "empty_state": {
+      "sidebar_open_tab": {
+        "title": "Không có mục công việc đang mở",
+        "description": "Tìm các mục công việc đang mở ở đây. Tạo mục công việc mới."
+      },
+      "sidebar_closed_tab": {
+        "title": "Không có mục công việc đã đóng",
+        "description": "Tất cả các mục công việc dù được chấp nhận hay bị từ chối đều có thể được tìm thấy ở đây."
+      },
+      "sidebar_filter": {
+        "title": "Không có mục công việc phù hợp",
+        "description": "Không có mục công việc nào khớp với bộ lọc được áp dụng trong đầu vào. Tạo một mục công việc mới."
+      },
+      "detail": {
+        "title": "Chọn một mục công việc để xem chi tiết của nó."
+      }
+    }
+  },
+  "workspace_creation": {
+    "heading": "Tạo không gian làm việc của bạn",
+    "subheading": "Để bắt đầu sử dụng Plane, bạn cần tạo hoặc tham gia một không gian làm việc.",
+    "form": {
+      "name": {
+        "label": "Đặt tên cho không gian làm việc của bạn",
+        "placeholder": "Một cái gì đó quen thuộc và dễ nhận biết luôn là tốt nhất."
+      },
+      "url": {
+        "label": "Đặt URL của không gian làm việc của bạn",
+        "placeholder": "Nhập hoặc dán URL",
+        "edit_slug": "Bạn chỉ có thể chỉnh sửa phần slug của URL"
+      },
+      "organization_size": {
+        "label": "Có bao nhiêu người sẽ sử dụng không gian làm việc này?",
+        "placeholder": "Chọn một phạm vi"
+      }
+    },
+    "errors": {
+      "creation_disabled": {
+        "title": "Chỉ quản trị viên phiên bản của bạn mới có thể tạo không gian làm việc",
+        "description": "Nếu bạn biết địa chỉ email của quản trị viên phiên bản của mình, hãy nhấp vào nút bên dưới để liên hệ với họ.",
+        "request_button": "Yêu cầu quản trị viên phiên bản"
+      },
+      "validation": {
+        "name_alphanumeric": "Tên không gian làm việc chỉ có thể chứa (' '), ('-'), ('_') và các ký tự chữ và số.",
+        "name_length": "Giới hạn tên của bạn ở 80 ký tự.",
+        "url_alphanumeric": "URL chỉ có thể chứa ('-') và các ký tự chữ và số.",
+        "url_length": "Giới hạn URL của bạn ở 48 ký tự.",
+        "url_already_taken": "URL không gian làm việc đã được sử dụng!"
+      }
+    },
+    "request_email": {
+      "subject": "Yêu cầu một không gian làm việc mới",
+      "body": "Xin chào (các) quản trị viên phiên bản,\n\nVui lòng tạo một không gian làm việc mới với URL [/ten-khong-gian-lam-viec] cho [mục đích tạo không gian làm việc].\n\nCảm ơn,\n{firstName} {lastName}\n{email}"
+    },
+    "button": {
+      "default": "Tạo không gian làm việc",
+      "loading": "Đang tạo không gian làm việc"
+    },
+    "toast": {
+      "success": {
+        "title": "Thành công",
+        "message": "Không gian làm việc được tạo thành công"
+      },
+      "error": {
+        "title": "Lỗi",
+        "message": "Không thể tạo không gian làm việc. Vui lòng thử lại."
+      }
+    }
+  },
+  "workspace_dashboard": {
+    "empty_state": {
+      "general": {
+        "title": "Tổng quan về các dự án, hoạt động và chỉ số của bạn",
+        "description": "Chào mừng bạn đến với Plane, chúng tôi rất vui khi có bạn ở đây. Tạo dự án đầu tiên của bạn và theo dõi các mục công việc của bạn, và trang này sẽ biến thành một không gian giúp bạn tiến bộ. Quản trị viên cũng sẽ thấy các mục giúp nhóm của họ tiến bộ.",
+        "primary_button": {
+          "text": "Xây dựng dự án đầu tiên của bạn",
+          "comic": {
+            "title": "Mọi thứ bắt đầu bằng một dự án trong Plane",
+            "description": "Một dự án có thể là lộ trình của một sản phẩm, một chiến dịch tiếp thị hoặc ra mắt một chiếc xe hơi mới."
+          }
+        }
+      }
+    }
+  },
+  "workspace_analytics": {
+    "label": "Phân tích",
+    "page_label": "{workspace} - Phân tích",
+    "open_tasks": "Tổng số nhiệm vụ đang mở",
+    "error": "Đã xảy ra lỗi khi tìm nạp dữ liệu.",
+    "work_items_closed_in": "Mục công việc đã đóng trong",
+    "selected_projects": "Dự án đã chọn",
+    "total_members": "Tổng số thành viên",
+    "total_cycles": "Tổng số chu kỳ",
+    "total_modules": "Tổng số mô-đun",
+    "pending_work_items": {
+      "title": "Mục công việc đang chờ xử lý",
+      "empty_state": "Phân tích các mục công việc đang chờ xử lý của đồng nghiệp xuất hiện ở đây."
+    },
+    "work_items_closed_in_a_year": {
+      "title": "Mục công việc đã đóng trong một năm",
+      "empty_state": "Đóng các mục công việc để xem phân tích tương tự ở dạng biểu đồ."
+    },
+    "most_work_items_created": {
+      "title": "Hầu hết các mục công việc được tạo",
+      "empty_state": "Đồng nghiệp và số lượng mục công việc do họ tạo ra xuất hiện ở đây."
+    },
+    "most_work_items_closed": {
+      "title": "Hầu hết các mục công việc đã đóng",
+      "empty_state": "Đồng nghiệp và số lượng mục công việc do họ đóng xuất hiện ở đây."
+    },
+    "tabs": {
+      "scope_and_demand": "Phạm vi và Nhu cầu",
+      "custom": "Phân tích tùy chỉnh"
+    },
+    "empty_state": {
+      "general": {
+        "title": "Theo dõi tiến độ, khối lượng công việc và phân bổ. Phát hiện xu hướng, loại bỏ các yếu tố chặn và di chuyển công việc nhanh hơn",
+        "description": "Xem phạm vi so với nhu cầu, ước tính và phạm vi leo thang. Nhận hiệu suất theo thành viên nhóm và nhóm, đồng thời đảm bảo dự án của bạn chạy đúng thời gian.",
+        "primary_button": {
+          "text": "Bắt đầu dự án đầu tiên của bạn",
+          "comic": {
+            "title": "Phân tích hoạt động tốt nhất với Chu kỳ + Mô-đun",
+            "description": "Đầu tiên, hãy giới hạn thời gian các mục công việc của bạn thành Chu kỳ và nếu có thể, hãy nhóm các mục công việc kéo dài hơn một chu kỳ thành Mô-đun. Kiểm tra cả hai trên điều hướng bên trái."
+          }
+        }
+      }
+    }
+  },
+  "workspace_projects": {
+    "label": "{count, plural, one {Dự án} other {Dự án}}",
+    "create": {
+      "label": "Thêm dự án"
+    },
+    "network": {
+      "label": "Mạng",
+      "private": {
+        "title": "Riêng tư",
+        "description": "Chỉ có thể truy cập bằng lời mời"
+      },
+      "public": {
+        "title": "Công khai",
+        "description": "Bất kỳ ai trong không gian làm việc trừ Khách đều có thể tham gia"
+      }
+    },
+    "error": {
+      "permission": "Bạn không có quyền thực hiện hành động này.",
+      "cycle_delete": "Không thể xóa chu kỳ",
+      "module_delete": "Không thể xóa mô-đun",
+      "issue_delete": "Không thể xóa mục công việc"
+    },
+    "state": {
+      "backlog": "Tồn đọng",
+      "unstarted": "Chưa bắt đầu",
+      "started": "Đã bắt đầu",
+      "completed": "Đã hoàn thành",
+      "cancelled": "Đã hủy"
+    },
+    "sort": {
+      "manual": "Thủ công",
+      "name": "Tên",
+      "created_at": "Ngày tạo",
+      "members_length": "Số lượng thành viên"
+    },
+    "scope": {
+      "my_projects": "Dự án của tôi",
+      "archived_projects": "Đã lưu trữ"
+    },
+    "common": {
+      "months_count": "{months, plural, one {# tháng} other {# tháng}}"
+    },
+    "empty_state": {
+      "general": {
+        "title": "Không có dự án đang hoạt động",
+        "description": "Hãy coi mỗi dự án là cha mẹ cho công việc hướng tới mục tiêu. Các dự án là nơi chứa Công việc, Chu kỳ và Mô-đun, và cùng với các đồng nghiệp của bạn, giúp bạn đạt được mục tiêu đó. Tạo một dự án mới hoặc lọc các dự án đã lưu trữ.",
+        "primary_button": {
+          "text": "Bắt đầu dự án đầu tiên của bạn",
+          "comic": {
+            "title": "Mọi thứ bắt đầu bằng một dự án trong Plane",
+            "description": "Một dự án có thể là lộ trình của một sản phẩm, một chiến dịch tiếp thị hoặc ra mắt một chiếc xe hơi mới."
+          }
+        }
+      },
+      "no_projects": {
+        "title": "Không có dự án",
+        "description": "Để tạo các mục công việc hoặc quản lý công việc của bạn, bạn cần tạo một dự án hoặc là một phần của một dự án.",
+        "primary_button": {
+          "text": "Bắt đầu dự án đầu tiên của bạn",
+          "comic": {
+            "title": "Mọi thứ bắt đầu bằng một dự án trong Plane",
+            "description": "Một dự án có thể là lộ trình của một sản phẩm, một chiến dịch tiếp thị hoặc ra mắt một chiếc xe hơi mới."
+          }
+        }
+      },
+      "filter": {
+        "title": "Không có dự án phù hợp",
+        "description": "Không có dự án nào được phát hiện với tiêu chí phù hợp. \n Thay vào đó, hãy tạo một dự án mới."
+      },
+      "search": {
+        "description": "Không có dự án nào được phát hiện với tiêu chí phù hợp.\nThay vào đó, hãy tạo một dự án mới"
+      }
+    }
+  },
+  "workspace_views": {
+    "add_view": "Thêm chế độ xem",
+    "empty_state": {
+      "all-issues": {
+        "title": "Không có mục công việc nào trong dự án",
+        "description": "Dự án đầu tiên đã hoàn thành! Bây giờ, hãy chia nhỏ công việc của bạn thành các phần có thể theo dõi được với các mục công việc. Đi nào!",
+        "primary_button": {
+          "text": "Tạo mục công việc mới"
+        }
+      },
+      "assigned": {
+        "title": "Chưa có mục công việc nào",
+        "description": "Các mục công việc được giao cho bạn có thể được theo dõi từ đây.",
+        "primary_button": {
+          "text": "Tạo mục công việc mới"
+        }
+      },
+      "created": {
+        "title": "Chưa có mục công việc nào",
+        "description": "Tất cả các mục công việc do bạn tạo ra đều đến đây, hãy theo dõi chúng trực tiếp tại đây.",
+        "primary_button": {
+          "text": "Tạo mục công việc mới"
+        }
+      },
+      "subscribed": {
+        "title": "Chưa có mục công việc nào",
+        "description": "Đăng ký các mục công việc mà bạn quan tâm, theo dõi tất cả chúng ở đây."
+      },
+      "custom-view": {
+        "title": "Chưa có mục công việc nào",
+        "description": "Các mục công việc áp dụng cho các bộ lọc, theo dõi tất cả chúng ở đây."
+      }
+    }
+  },
+  "workspace_settings": {
+    "label": "Cài đặt không gian làm việc",
+    "page_label": "{workspace} - Cài đặt chung",
+    "key_created": "Đã tạo khóa",
+    "copy_key": "Sao chép và lưu khóa bí mật này trong Plane Pages. Bạn không thể thấy khóa này sau khi bạn nhấn Đóng. Một tệp CSV chứa khóa đã được tải xuống.",
+    "token_copied": "Đã sao chép mã thông báo vào khay nhớ tạm.",
+    "settings": {
+      "general": {
+        "title": "Chung",
+        "upload_logo": "Tải lên logo",
+        "edit_logo": "Chỉnh sửa logo",
+        "name": "Tên không gian làm việc",
+        "company_size": "Quy mô công ty",
+        "url": "URL không gian làm việc",
+        "update_workspace": "Cập nhật không gian làm việc",
+        "delete_workspace": "Xóa không gian làm việc này",
+        "delete_workspace_description": "Khi xóa một không gian làm việc, tất cả dữ liệu và tài nguyên trong không gian làm việc đó sẽ bị xóa vĩnh viễn và không thể khôi phục.",
+        "delete_btn": "Xóa không gian làm việc này",
+        "delete_modal": {
+          "title": "Bạn có chắc chắn muốn xóa không gian làm việc này không?",
+          "description": "Bạn có bản dùng thử đang hoạt động cho một trong các gói trả phí của chúng tôi. Vui lòng hủy nó trước để tiếp tục.",
+          "dismiss": "Bỏ qua",
+          "cancel": "Hủy bản dùng thử",
+          "success_title": "Đã xóa không gian làm việc.",
+          "success_message": "Bạn sẽ sớm đến trang hồ sơ của mình.",
+          "error_title": "Điều đó không hiệu quả.",
+          "error_message": "Vui lòng thử lại."
+        },
+        "errors": {
+          "name": {
+            "required": "Tên là bắt buộc",
+            "max_length": "Tên không gian làm việc không được vượt quá 80 ký tự"
+          },
+          "company_size": {
+            "required": "Quy mô công ty là bắt buộc",
+            "select_a_range": "Chọn quy mô tổ chức"
+          }
+        }
+      },
+      "members": {
+        "title": "Thành viên",
+        "add_member": "Thêm thành viên",
+        "pending_invites": "Lời mời đang chờ xử lý",
+        "invitations_sent_successfully": "Lời mời đã được gửi thành công",
+        "leave_confirmation": "Bạn có chắc chắn muốn rời khỏi không gian làm việc không? Bạn sẽ không còn quyền truy cập vào không gian làm việc này nữa. Hành động này không thể hoàn tác.",
+        "details": {
+          "full_name": "Họ và tên",
+          "display_name": "Tên hiển thị",
+          "email_address": "Địa chỉ email",
+          "account_type": "Loại tài khoản",
+          "authentication": "Xác thực",
+          "joining_date": "Ngày tham gia"
+        },
+        "modal": {
+          "title": "Mời mọi người cộng tác",
+          "description": "Mời mọi người cộng tác trên không gian làm việc của bạn.",
+          "button": "Gửi lời mời",
+          "button_loading": "Đang gửi lời mời",
+          "placeholder": "ten@congty.com",
+          "errors": {
+            "required": "Chúng tôi cần một địa chỉ email để mời họ.",
+            "invalid": "Email không hợp lệ"
+          }
+        }
+      },
+      "billing_and_plans": {
+        "title": "Thanh toán & Gói",
+        "current_plan": "Gói hiện tại",
+        "free_plan": "Bạn hiện đang sử dụng gói miễn phí",
+        "view_plans": "Xem các gói"
+      },
+      "exports": {
+        "title": "Xuất",
+        "exporting": "Đang xuất",
+        "previous_exports": "Các bản xuất trước",
+        "export_separate_files": "Xuất dữ liệu thành các tệp riêng biệt",
+        "modal": {
+          "title": "Xuất sang",
+          "toasts": {
+            "success": {
+              "title": "Xuất thành công",
+              "message": "Bạn sẽ có thể tải xuống {entity} đã xuất từ ​​bản xuất trước đó."
+            },
+            "error": {
+              "title": "Xuất thất bại",
+              "message": "Xuất không thành công. Vui lòng thử lại."
+            }
+          }
+        }
+      },
+      "webhooks": {
+        "title": "Webhooks",
+        "add_webhook": "Thêm webhook",
+        "modal": {
+          "title": "Tạo webhook",
+          "details": "Chi tiết webhook",
+          "payload": "URL tải trọng",
+          "question": "Bạn muốn kích hoạt webhook này cho những sự kiện nào?",
+          "error": "URL là bắt buộc"
+        },
+        "secret_key": {
+          "title": "Khóa bí mật",
+          "message": "Tạo mã thông báo để đăng nhập vào tải trọng webhook"
+        },
+        "options": {
+          "all": "Gửi cho tôi mọi thứ",
+          "individual": "Chọn các sự kiện riêng lẻ"
+        },
+        "toasts": {
+          "created": {
+            "title": "Đã tạo webhook",
+            "message": "Webhook đã được tạo thành công"
+          },
+          "not_created": {
+            "title": "Webhook không được tạo",
+            "message": "Không thể tạo webhook"
+          },
+          "updated": {
+            "title": "Đã cập nhật webhook",
+            "message": "Webhook đã được cập nhật thành công"
+          },
+          "not_updated": {
+            "title": "Webhook không được cập nhật",
+            "message": "Không thể cập nhật webhook"
+          },
+          "removed": {
+            "title": "Đã xóa webhook",
+            "message": "Webhook đã được xóa thành công"
+          },
+          "not_removed": {
+            "title": "Webhook không bị xóa",
+            "message": "Không thể xóa webhook"
+          },
+          "secret_key_copied": {
+            "message": "Đã sao chép khóa bí mật vào khay nhớ tạm."
+          },
+          "secret_key_not_copied": {
+            "message": "Đã xảy ra lỗi khi sao chép khóa bí mật."
+          }
+        }
+      },
+      "api_tokens": {
+        "title": "Mã thông báo API",
+        "add_token": "Thêm mã thông báo API",
+        "create_token": "Tạo mã thông báo",
+        "never_expires": "Không bao giờ hết hạn",
+        "generate_token": "Tạo mã thông báo",
+        "generating": "Đang tạo",
+        "delete": {
+          "title": "Xóa mã thông báo API",
+          "description": "Bất kỳ ứng dụng nào sử dụng mã thông báo này sẽ không còn quyền truy cập vào dữ liệu Plane. Hành động này không thể hoàn tác.",
+          "success": {
+            "title": "Thành công!",
+            "message": "Mã thông báo API đã được xóa thành công"
+          },
+          "error": {
+            "title": "Lỗi!",
+            "message": "Không thể xóa mã thông báo API"
+          }
+        }
+      }
+    },
+    "empty_state": {
+      "api_tokens": {
+        "title": "Không có mã thông báo API nào được tạo",
+        "description": "API Plane có thể được sử dụng để tích hợp dữ liệu của bạn trong Plane với bất kỳ hệ thống bên ngoài nào. Tạo mã thông báo để bắt đầu."
+      },
+      "webhooks": {
+        "title": "Không có webhook nào được thêm",
+        "description": "Tạo webhook để nhận thông tin cập nhật theo thời gian thực và tự động hóa các hành động."
+      },
+      "exports": {
+        "title": "Chưa có bản xuất nào",
+        "description": "Bất cứ khi nào bạn xuất, bạn cũng sẽ có một bản sao ở đây để tham khảo."
+      },
+      "imports": {
+        "title": "Chưa có bản nhập nào",
+        "description": "Tìm tất cả các bản nhập trước đây của bạn ở đây và tải chúng xuống."
+      }
+    }
+  },
+  "profile": {
+    "label": "Hồ sơ",
+    "page_label": "Công việc của bạn",
+    "work": "Công việc",
+    "details": {
+      "joined_on": "Tham gia vào",
+      "time_zone": "Múi giờ"
+    },
+    "stats": {
+      "workload": "Khối lượng công việc",
+      "overview": "Tổng quan",
+      "created": "Mục công việc đã tạo",
+      "assigned": "Mục công việc được giao",
+      "subscribed": "Mục công việc đã đăng ký",
+      "state_distribution": {
+        "title": "Mục công việc theo trạng thái",
+        "empty": "Tạo các mục công việc để xem chúng theo trạng thái trong biểu đồ để phân tích tốt hơn."
+      },
+      "priority_distribution": {
+        "title": "Mục công việc theo mức độ ưu tiên",
+        "empty": "Tạo các mục công việc để xem chúng theo mức độ ưu tiên trong biểu đồ để phân tích tốt hơn."
+      },
+      "recent_activity": {
+        "title": "Hoạt động gần đây",
+        "empty": "Chúng tôi không thể tìm thấy dữ liệu. Vui lòng xem thông tin đầu vào của bạn",
+        "button": "Tải xuống hoạt động hôm nay",
+        "button_loading": "Đang tải xuống"
+      }
+    },
+    "actions": {
+      "profile": "Hồ sơ",
+      "security": "Bảo mật",
+      "activity": "Hoạt động",
+      "appearance": "Giao diện",
+      "notifications": "Thông báo"
+    },
+    "tabs": {
+      "summary": "Tóm tắt",
+      "assigned": "Đã giao",
+      "created": "Đã tạo",
+      "subscribed": "Đã đăng ký",
+      "activity": "Hoạt động"
+    },
+    "empty_state": {
+      "activity": {
+        "title": "Chưa có hoạt động nào",
+        "description": "Bắt đầu bằng cách tạo một mục công việc mới! Thêm chi tiết và thuộc tính cho nó. Khám phá thêm trong Plane để xem hoạt động của bạn."
+      },
+      "assigned": {
+        "title": "Không có mục công việc nào được giao cho bạn",
+        "description": "Các mục công việc được giao cho bạn có thể được theo dõi từ đây."
+      },
+      "created": {
+        "title": "Chưa có mục công việc nào",
+        "description": "Tất cả các mục công việc do bạn tạo ra đều đến đây, hãy theo dõi chúng trực tiếp tại đây."
+      },
+      "subscribed": {
+        "title": "Chưa có mục công việc nào",
+        "description": "Đăng ký các mục công việc mà bạn quan tâm, theo dõi tất cả chúng ở đây."
+      }
+    }
+  },
+  "project_settings": {
+    "general": {
+      "enter_project_id": "Nhập ID dự án",
+      "please_select_a_timezone": "Vui lòng chọn múi giờ",
+      "archive_project": {
+        "title": "Lưu trữ dự án",
+        "description": "Lưu trữ một dự án sẽ bỏ liệt kê dự án của bạn khỏi điều hướng bên cạnh của bạn mặc dù bạn vẫn có thể truy cập nó từ trang dự án của mình. Bạn có thể khôi phục dự án hoặc xóa nó bất cứ khi nào bạn muốn.",
+        "button": "Lưu trữ dự án"
+      },
+      "delete_project": {
+        "title": "Xóa dự án",
+        "description": "Khi xóa một dự án, tất cả dữ liệu và tài nguyên trong dự án đó sẽ bị xóa vĩnh viễn và không thể khôi phục.",
+        "button": "Xóa dự án của tôi"
+      },
+      "toast": {
+        "success": "Dự án được cập nhật thành công",
+        "error": "Không thể cập nhật dự án. Vui lòng thử lại."
+      }
+    },
+    "members": {
+      "label": "Thành viên",
+      "project_lead": "Trưởng dự án",
+      "default_assignee": "Người được giao mặc định",
+      "guest_super_permissions": {
+        "title": "Cấp quyền truy cập xem cho tất cả các mục công việc cho người dùng khách:",
+        "sub_heading": "Điều này sẽ cho phép khách có quyền truy cập xem vào tất cả các mục công việc của dự án."
+      },
+      "invite_members": {
+        "title": "Mời thành viên",
+        "sub_heading": "Mời thành viên làm việc trên dự án của bạn.",
+        "select_co_worker": "Chọn đồng nghiệp"
+      }
+    },
+    "states": {
+      "describe_this_state_for_your_members": "Mô tả trạng thái này cho các thành viên của bạn.",
+      "empty_state": {
+        "title": "Không có trạng thái nào khả dụng cho nhóm {groupKey}",
+        "description": "Vui lòng tạo một trạng thái mới"
+      }
+    },
+    "labels": {
+      "label_title": "Tiêu đề nhãn",
+      "label_title_is_required": "Tiêu đề nhãn là bắt buộc",
+      "label_max_char": "Tên nhãn không được vượt quá 255 ký tự",
+      "toast": {
+        "error": "Lỗi khi cập nhật nhãn"
+      }
+    },
+    "estimates": {
+      "title": "Bật ước tính cho dự án của tôi",
+      "description": "Chúng giúp bạn truyền đạt sự phức tạp và khối lượng công việc của nhóm."
+    },
+    "automations": {
+      "label": "Tự động hóa",
+      "auto-archive": {
+        "title": "Tự động lưu trữ các mục công việc đã đóng",
+        "description": "Plane sẽ tự động lưu trữ các mục công việc đã hoàn thành hoặc bị hủy.",
+        "duration": "Tự động lưu trữ các mục công việc đã đóng trong"
+      },
+      "auto-close": {
+        "title": "Tự động đóng các mục công việc",
+        "description": "Plane sẽ tự động đóng các mục công việc không được hoàn thành hoặc bị hủy.",
+        "duration": "Tự động đóng các mục công việc không hoạt động trong",
+        "auto_close_status": "Trạng thái tự động đóng"
+      }
+    },
+    "empty_state": {
+      "labels": {
+        "title": "Chưa có nhãn",
+        "description": "Tạo nhãn để giúp tổ chức và lọc các mục công việc trong dự án của bạn."
+      },
+      "estimates": {
+        "title": "Chưa có hệ thống ước tính nào",
+        "description": "Tạo một tập hợp các ước tính để truyền đạt khối lượng công việc trên mỗi mục công việc.",
+        "primary_button": "Thêm hệ thống ước tính"
+      }
+    }
+  },
+  "project_cycles": {
+    "add_cycle": "Thêm chu kỳ",
+    "more_details": "Thêm chi tiết",
+    "cycle": "Chu kỳ",
+    "update_cycle": "Cập nhật chu kỳ",
+    "create_cycle": "Tạo chu kỳ",
+    "no_matching_cycles": "Không có chu kỳ phù hợp",
+    "remove_filters_to_see_all_cycles": "Xóa các bộ lọc để xem tất cả các chu kỳ",
+    "remove_search_criteria_to_see_all_cycles": "Xóa tiêu chí tìm kiếm để xem tất cả các chu kỳ",
+    "only_completed_cycles_can_be_archived": "Chỉ các chu kỳ đã hoàn thành mới có thể được lưu trữ",
+    "active_cycle": {
+      "label": "Chu kỳ đang hoạt động",
+      "progress": "Tiến độ",
+      "chart": "Biểu đồ Burndown",
+      "priority_issue": "Mục công việc ưu tiên",
+      "assignees": "Những người được giao",
+      "issue_burndown": "Burndown mục công việc",
+      "ideal": "Lý tưởng",
+      "current": "Hiện tại",
+      "labels": "Nhãn"
+    },
+    "upcoming_cycle": {
+      "label": "Chu kỳ sắp tới"
+    },
+    "completed_cycle": {
+      "label": "Chu kỳ đã hoàn thành"
+    },
+    "status": {
+      "days_left": "Số ngày còn lại",
+      "completed": "Đã hoàn thành",
+      "yet_to_start": "Chưa bắt đầu",
+      "in_progress": "Đang tiến hành",
+      "draft": "Bản nháp"
+    },
+    "action": {
+      "restore": {
+        "title": "Khôi phục chu kỳ",
+        "success": {
+          "title": "Đã khôi phục chu kỳ",
+          "description": "Chu kỳ đã được khôi phục."
+        },
+        "failed": {
+          "title": "Khôi phục chu kỳ thất bại",
+          "description": "Không thể khôi phục chu kỳ. Vui lòng thử lại."
+        }
+      },
+      "favorite": {
+        "loading": "Đang thêm chu kỳ vào mục yêu thích",
+        "success": {
+          "description": "Đã thêm chu kỳ vào mục yêu thích.",
+          "title": "Thành công!"
+        },
+        "failed": {
+          "description": "Không thể thêm chu kỳ vào mục yêu thích. Vui lòng thử lại.",
+          "title": "Lỗi!"
+        }
+      },
+      "unfavorite": {
+        "loading": "Đang xóa chu kỳ khỏi mục yêu thích",
+        "success": {
+          "description": "Đã xóa chu kỳ khỏi mục yêu thích.",
+          "title": "Thành công!"
+        },
+        "failed": {
+          "description": "Không thể xóa chu kỳ khỏi mục yêu thích. Vui lòng thử lại.",
+          "title": "Lỗi!"
+        }
+      },
+      "update": {
+        "loading": "Đang cập nhật chu kỳ",
+        "success": {
+          "description": "Chu kỳ được cập nhật thành công.",
+          "title": "Thành công!"
+        },
+        "failed": {
+          "description": "Lỗi khi cập nhật chu kỳ. Vui lòng thử lại.",
+          "title": "Lỗi!"
+        },
+        "error": {
+          "already_exists": "Bạn đã có một chu kỳ vào những ngày đã cho, nếu bạn muốn tạo một chu kỳ nháp, bạn có thể làm điều đó bằng cách xóa cả hai ngày."
+        }
+      }
+    },
+    "empty_state": {
+      "general": {
+        "title": "Nhóm và giới hạn thời gian công việc của bạn trong Chu kỳ.",
+        "description": "Chia nhỏ công việc theo các khoảng thời gian giới hạn, làm việc ngược lại từ thời hạn dự án của bạn để đặt ngày và đạt được tiến độ hữu hình với tư cách là một nhóm.",
+        "primary_button": {
+          "text": "Đặt chu kỳ đầu tiên của bạn",
+          "comic": {
+            "title": "Chu kỳ là các hộp thời gian lặp đi lặp lại.",
+            "description": "Một sprint, một lần lặp lại và hoặc bất kỳ thuật ngữ nào khác mà bạn sử dụng để theo dõi công việc hàng tuần hoặc hai tuần một lần là một chu kỳ."
+          }
+        }
+      },
+      "no_issues": {
+        "title": "Không có mục công việc nào được thêm vào chu kỳ",
+        "description": "Thêm hoặc tạo các mục công việc mà bạn muốn giới hạn thời gian và phân phối trong chu kỳ này",
+        "primary_button": {
+          "text": "Tạo mục công việc mới"
+        },
+        "secondary_button": {
+          "text": "Thêm mục công việc hiện có"
+        }
+      },
+      "completed_no_issues": {
+        "title": "Không có mục công việc nào trong chu kỳ",
+        "description": "Không có mục công việc nào trong chu kỳ. Các mục công việc được chuyển hoặc ẩn. Để xem các mục công việc bị ẩn nếu có, hãy cập nhật các thuộc tính hiển thị của bạn cho phù hợp."
+      },
+      "active": {
+        "title": "Không có chu kỳ đang hoạt động",
+        "description": "Một chu kỳ đang hoạt động bao gồm bất kỳ khoảng thời gian nào bao gồm ngày hôm nay trong phạm vi của nó. Tìm tiến độ và chi tiết của chu kỳ đang hoạt động tại đây."
+      },
+      "archived": {
+        "title": "Chưa có chu kỳ nào được lưu trữ",
+        "description": "Để dọn dẹp dự án của bạn, hãy lưu trữ các chu kỳ đã hoàn thành. Tìm chúng ở đây sau khi lưu trữ."
+      }
+    }
+  },
+  "project_issues": {
+    "empty_state": {
+      "no_issues": {
+        "title": "Tạo một mục công việc và giao nó cho ai đó, thậm chí là chính bạn",
+        "description": "Hãy coi các mục công việc là công việc, nhiệm vụ, công việc hoặc JTBD. Mà chúng tôi thích. Một mục công việc và các mục công việc con của nó thường là các hành động có thể thực hiện được theo thời gian được giao cho các thành viên trong nhóm của bạn. Nhóm của bạn tạo, gán và hoàn thành các mục công việc để đưa dự án của bạn tiến tới mục tiêu của nó.",
+        "primary_button": {
+          "text": "Tạo mục công việc đầu tiên của bạn",
+          "comic": {
+            "title": "Mục công việc là các khối xây dựng trong Plane.",
+            "description": "Thiết kế lại giao diện người dùng Plane, Đổi thương hiệu công ty hoặc Ra mắt hệ thống phun nhiên liệu mới là những ví dụ về các mục công việc có khả năng có các mục công việc con."
+          }
+        }
+      },
+      "no_archived_issues": {
+        "title": "Chưa có mục công việc nào được lưu trữ",
+        "description": "Thủ công hoặc thông qua tự động hóa, bạn có thể lưu trữ các mục công việc đã hoàn thành hoặc bị hủy. Tìm chúng ở đây sau khi lưu trữ.",
+        "primary_button": {
+          "text": "Đặt tự động hóa"
+        }
+      },
+      "issues_empty_filter": {
+        "title": "Không tìm thấy mục công việc nào phù hợp với các bộ lọc đã áp dụng",
+        "secondary_button": {
+          "text": "Xóa tất cả các bộ lọc"
+        }
+      }
+    }
+  },
+  "project_module": {
+    "add_module": "Thêm Mô-đun",
+    "update_module": "Cập nhật Mô-đun",
+    "create_module": "Tạo Mô-đun",
+    "archive_module": "Lưu trữ Mô-đun",
+    "restore_module": "Khôi phục Mô-đun",
+    "delete_module": "Xóa mô-đun",
+    "empty_state": {
+      "general": {
+        "title": "Ánh xạ các mốc quan trọng của dự án của bạn vào Mô-đun và theo dõi công việc tổng hợp một cách dễ dàng.",
+        "description": "Một nhóm các mục công việc thuộc về một cha mẹ hợp lý, có thứ bậc tạo thành một mô-đun. Hãy coi chúng như một cách để theo dõi công việc theo các mốc quan trọng của dự án. Chúng có các khoảng thời gian và thời hạn riêng cũng như các phân tích để giúp bạn xem bạn đang ở gần hay xa một mốc quan trọng.",
+        "primary_button": {
+          "text": "Xây dựng mô-đun đầu tiên của bạn",
+          "comic": {
+            "title": "Mô-đun giúp nhóm công việc theo thứ bậc.",
+            "description": "Một mô-đun giỏ hàng, một mô-đun khung gầm và một mô-đun kho là tất cả các ví dụ điển hình về nhóm này."
+          }
+        }
+      },
+      "no_issues": {
+        "title": "Không có mục công việc nào trong mô-đun",
+        "description": "Tạo hoặc thêm các mục công việc mà bạn muốn hoàn thành như một phần của mô-đun này",
+        "primary_button": {
+          "text": "Tạo mục công việc mới"
+        },
+        "secondary_button": {
+          "text": "Thêm một mục công việc hiện có"
+        }
+      },
+      "archived": {
+        "title": "Chưa có Mô-đun nào được lưu trữ",
+        "description": "Để dọn dẹp dự án của bạn, hãy lưu trữ các mô-đun đã hoàn thành hoặc bị hủy. Tìm chúng ở đây sau khi lưu trữ."
+      },
+      "sidebar": {
+        "in_active": "Mô-đun này chưa hoạt động.",
+        "invalid_date": "Ngày không hợp lệ. Vui lòng nhập ngày hợp lệ."
+      }
+    },
+    "quick_actions": {
+      "archive_module": "Lưu trữ mô-đun",
+      "archive_module_description": "Chỉ mô-đun đã hoàn thành hoặc bị hủy\nmới có thể được lưu trữ.",
+      "delete_module": "Xóa mô-đun"
+    },
+    "toast": {
+      "copy": {
+        "success": "Đã sao chép liên kết mô-đun vào khay nhớ tạm"
+      },
+      "delete": {
+        "success": "Đã xóa mô-đun thành công",
+        "error": "Không thể xóa mô-đun"
+      }
+    }
+  },
+  "project_views": {
+    "empty_state": {
+      "general": {
+        "title": "Lưu các chế độ xem đã lọc cho dự án của bạn. Tạo bao nhiêu tùy thích",
+        "description": "Chế độ xem là một tập hợp các bộ lọc đã lưu mà bạn sử dụng thường xuyên hoặc muốn truy cập dễ dàng. Tất cả đồng nghiệp của bạn trong một dự án có thể xem chế độ xem của mọi người và chọn bất kỳ chế độ xem nào phù hợp nhất với nhu cầu của họ.",
+        "primary_button": {
+          "text": "Tạo chế độ xem đầu tiên của bạn",
+          "comic": {
+            "title": "Chế độ xem hoạt động trên các thuộc tính Mục công việc.",
+            "description": "Bạn có thể tạo một chế độ xem từ đây với bao nhiêu thuộc tính làm bộ lọc tùy thích."
+          }
+        }
+      },
+      "filter": {
+        "title": "Không có chế độ xem phù hợp",
+        "description": "Không có chế độ xem nào khớp với tiêu chí tìm kiếm. \n Thay vào đó, hãy tạo một chế độ xem mới."
+      }
+    }
+  },
+  "project_page": {
+    "empty_state": {
+      "general": {
+        "title": "Viết ghi chú, tài liệu hoặc toàn bộ cơ sở kiến ​​thức. Nhờ Galileo, trợ lý AI của Plane, giúp bạn bắt đầu",
+        "description": "Các trang là không gian ghi lại suy nghĩ trong Plane. Ghi lại ghi chú cuộc họp, định dạng chúng dễ dàng, nhúng các mục công việc, bố trí chúng bằng thư viện các thành phần và giữ tất cả chúng trong ngữ cảnh dự án của bạn. Để làm cho bất kỳ tài liệu nào trở nên ngắn gọn, hãy gọi Galileo, AI của Plane, bằng một phím tắt hoặc nhấp vào một nút.",
+        "primary_button": {
+          "text": "Tạo trang đầu tiên của bạn"
+        }
+      },
+      "private": {
+        "title": "Chưa có trang riêng tư nào",
+        "description": "Giữ những suy nghĩ riêng tư của bạn ở đây. Khi bạn đã sẵn sàng chia sẻ, nhóm chỉ cần một cú nhấp chuột.",
+        "primary_button": {
+          "text": "Tạo trang đầu tiên của bạn"
+        }
+      },
+      "public": {
+        "title": "Chưa có trang công khai nào",
+        "description": "Xem các trang được chia sẻ với mọi người trong dự án của bạn ngay tại đây.",
+        "primary_button": {
+          "text": "Tạo trang đầu tiên của bạn"
+        }
+      },
+      "archived": {
+        "title": "Chưa có trang nào được lưu trữ",
+        "description": "Lưu trữ các trang không nằm trong tầm ngắm của bạn. Truy cập chúng ở đây khi cần thiết."
+      }
+    }
+  },
+  "command_k": {
+    "empty_state": {
+      "search": {
+        "title": "Không tìm thấy kết quả"
+      }
+    }
+  },
+  "issue_relation": {
+    "empty_state": {
+      "search": {
+        "title": "Không tìm thấy mục công việc phù hợp"
+      },
+      "no_issues": {
+        "title": "Không tìm thấy mục công việc"
+      }
+    }
+  },
+  "issue_comment": {
+    "empty_state": {
+      "general": {
+        "title": "Chưa có bình luận nào",
+        "description": "Bình luận có thể được sử dụng làm không gian thảo luận và theo dõi cho các mục công việc"
+      }
+    }
+  },
+  "notification": {
+    "label": "Hộp thư đến",
+    "page_label": "{workspace} - Hộp thư đến",
+    "options": {
+      "mark_all_as_read": "Đánh dấu tất cả là đã đọc",
+      "mark_read": "Đánh dấu là đã đọc",
+      "mark_unread": "Đánh dấu là chưa đọc",
+      "refresh": "Làm mới",
+      "filters": "Bộ lọc hộp thư đến",
+      "show_unread": "Hiển thị chưa đọc",
+      "show_snoozed": "Hiển thị đã tạm ẩn",
+      "show_archived": "Hiển thị đã lưu trữ",
+      "mark_archive": "Lưu trữ",
+      "mark_unarchive": "Hủy lưu trữ",
+      "mark_snooze": "Tạm ẩn",
+      "mark_unsnooze": "Hủy tạm ẩn"
+    },
+    "toasts": {
+      "read": "Thông báo được đánh dấu là đã đọc",
+      "unread": "Thông báo được đánh dấu là chưa đọc",
+      "archived": "Thông báo được đánh dấu là đã lưu trữ",
+      "unarchived": "Thông báo được đánh dấu là đã hủy lưu trữ",
+      "snoozed": "Thông báo đã tạm ẩn",
+      "unsnoozed": "Thông báo đã hủy tạm ẩn"
+    },
+    "empty_state": {
+      "detail": {
+        "title": "Chọn để xem chi tiết."
+      },
+      "all": {
+        "title": "Không có mục công việc nào được giao",
+        "description": "Cập nhật cho các mục công việc được giao cho bạn có thể \n được xem ở đây"
+      },
+      "mentions": {
+        "title": "Không có mục công việc nào được giao",
+        "description": "Cập nhật cho các mục công việc được giao cho bạn có thể \n được xem ở đây"
+      }
+    },
+    "tabs": {
+      "all": "Tất cả",
+      "mentions": "Đề cập"
+    },
+    "filter": {
+      "assigned": "Được giao cho tôi",
+      "created": "Tạo bởi tôi",
+      "subscribed": "Đăng ký bởi tôi"
+    },
+    "snooze": {
+      "1_day": "1 ngày",
+      "3_days": "3 ngày",
+      "5_days": "5 ngày",
+      "1_week": "1 tuần",
+      "2_weeks": "2 tuần",
+      "custom": "Tùy chỉnh"
+    }
+  },
+  "active_cycle": {
+    "empty_state": {
+      "progress": {
+        "title": "Thêm các mục công việc vào chu kỳ để xem tiến độ của nó"
+      },
+      "chart": {
+        "title": "Thêm các mục công việc vào chu kỳ để xem biểu đồ burndown."
+      },
+      "priority_issue": {
+        "title": "Quan sát các mục công việc có mức độ ưu tiên cao được giải quyết trong chu kỳ trong nháy mắt."
+      },
+      "assignee": {
+        "title": "Thêm người được giao vào các mục công việc để xem phân tích công việc theo người được giao."
+      },
+      "label": {
+        "title": "Thêm nhãn vào các mục công việc để xem phân tích công việc theo nhãn."
+      }
+    }
+  },
+  "disabled_project": {
+    "empty_state": {
+      "inbox": {
+        "title": "Đầu vào không được bật cho dự án.",
+        "description": "Đầu vào giúp bạn quản lý các yêu cầu đến dự án của bạn và thêm chúng làm mục công việc trong quy trình làm việc của bạn. Bật đầu vào từ cài đặt dự án để quản lý các yêu cầu.",
+        "primary_button": {
+          "text": "Quản lý tính năng"
+        }
+      },
+      "cycle": {
+        "title": "Chu kỳ không được bật cho dự án này.",
+        "description": "Chia nhỏ công việc theo các khoảng thời gian giới hạn, làm việc ngược lại từ thời hạn dự án của bạn để đặt ngày và đạt được tiến độ hữu hình với tư cách là một nhóm. Bật tính năng chu kỳ cho dự án của bạn để bắt đầu sử dụng chúng.",
+        "primary_button": {
+          "text": "Quản lý tính năng"
+        }
+      },
+      "module": {
+        "title": "Mô-đun không được bật cho dự án.",
+        "description": "Mô-đun là các khối xây dựng của dự án của bạn. Bật mô-đun từ cài đặt dự án để bắt đầu sử dụng chúng.",
+        "primary_button": {
+          "text": "Quản lý tính năng"
+        }
+      },
+      "page": {
+        "title": "Trang không được bật cho dự án.",
+        "description": "Trang là các khối xây dựng của dự án của bạn. Bật trang từ cài đặt dự án để bắt đầu sử dụng chúng.",
+        "primary_button": {
+          "text": "Quản lý tính năng"
+        }
+      },
+      "view": {
+        "title": "Chế độ xem không được bật cho dự án.",
+        "description": "Chế độ xem là các khối xây dựng của dự án của bạn. Bật chế độ xem từ cài đặt dự án để bắt đầu sử dụng chúng.",
+        "primary_button": {
+          "text": "Quản lý tính năng"
+        }
+      }
+    }
+  },
+  "workspace_draft_issues": {
+    "draft_an_issue": "Soạn thảo một mục công việc",
+    "empty_state": {
+      "title": "Các mục công việc viết dở và sắp tới, các bình luận sẽ hiển thị ở đây.",
+      "description": "Để thử điều này, hãy bắt đầu thêm một mục công việc và để nó ở giữa chừng hoặc tạo bản nháp đầu tiên của bạn bên dưới. 😉",
+      "primary_button": {
+        "text": "Tạo bản nháp đầu tiên của bạn"
+      }
+    },
+    "delete_modal": {
+      "title": "Xóa bản nháp",
+      "description": "Bạn có chắc chắn muốn xóa bản nháp này không? Điều này không thể hoàn tác."
+    },
+    "toasts": {
+      "created": {
+        "success": "Đã tạo bản nháp",
+        "error": "Không thể tạo mục công việc. Vui lòng thử lại."
+      },
+      "deleted": {
+        "success": "Đã xóa bản nháp"
+      }
+    }
+  },
+  "stickies": {
+    "title": "Ghi chú nhanh",
+    "placeholder": "Nhấn để nhập",
+    "all": "Tất cả ghi chú",
+    "no-data": "Ghi lại ý tưởng, khoảnh khắc chợt đến, hoặc bất kỳ suy nghĩ nào.  Thêm ghi chú để bắt đầu.",
+    "add": "Thêm ghi chú",
+    "search_placeholder": "Tìm kiếm theo tiêu đề",
+    "delete": "Xóa ghi chú",
+    "delete_confirmation": "Bạn có chắc chắn muốn xóa ghi chú này?",
+    "empty_state": {
+      "simple": "Ghi lại ý tưởng, khoảnh khắc chợt đến, hoặc bất kỳ suy nghĩ nào. Thêm ghi chú để bắt đầu.",
+      "general": {
+        "title": "Ghi chú nhanh là những ghi chép và việc cần làm bạn ghi lại nhanh chóng.",
+        "description": "Ghi lại suy nghĩ và ý tưởng của bạn một cách dễ dàng bằng cách tạo ghi chú nhanh mà bạn có thể truy cập bất cứ lúc nào và từ bất cứ đâu.",
+        "primary_button": {
+          "text": "Thêm ghi chú"
+        }
+      },
+      "search": {
+        "title": "Không có kết quả nào khớp với ghi chú của bạn.",
+        "description": "Hãy thử một từ khóa khác hoặc cho chúng tôi biết\nnếu bạn chắc chắn tìm kiếm của bạn là đúng.",
+        "primary_button": {
+          "text": "Thêm ghi chú"
+        }
+      }
+    },
+    "toasts": {
+      "errors": {
+        "wrong_name": "Tên ghi chú không được dài quá 100 ký tự.",
+        "already_exists": "Đã tồn tại một ghi chú không có mô tả"
+      },
+      "created": {
+        "title": "Đã tạo ghi chú",
+        "message": "Ghi chú đã được tạo thành công"
+      },
+      "not_created": {
+        "title": "Không tạo được ghi chú",
+        "message": "Không thể tạo ghi chú"
+      },
+      "updated": {
+        "title": "Đã cập nhật ghi chú",
+        "message": "Ghi chú đã được cập nhật thành công"
+      },
+      "not_updated": {
+        "title": "Không cập nhật được ghi chú",
+        "message": "Không thể cập nhật ghi chú"
+      },
+      "removed": {
+        "title": "Đã xóa ghi chú",
+        "message": "Ghi chú đã được xóa thành công"
+      },
+      "not_removed": {
+        "title": "Không xóa được ghi chú",
+        "message": "Không thể xóa ghi chú"
+      }
+    }
+  },
+  "role_details": {
+    "guest": {
+      "title": "Khách",
+      "description": "Thành viên bên ngoài tổ chức có thể được mời với tư cách khách."
+    },
+    "member": {
+      "title": "Thành viên",
+      "description": "Có khả năng đọc, viết, chỉnh sửa và xóa các thực thể bên trong dự án, chu kỳ và mô-đun"
+    },
+    "admin": {
+      "title": "Quản trị viên",
+      "description": "Tất cả các quyền được đặt thành true trong không gian làm việc."
+    }
+  },
+  "user_roles": {
+    "product_or_project_manager": "Quản lý Sản phẩm / Dự án",
+    "development_or_engineering": "Phát triển / Kỹ thuật",
+    "founder_or_executive": "Nhà sáng lập / Điều hành",
+    "freelancer_or_consultant": "Người làm việc tự do / Tư vấn",
+    "marketing_or_growth": "Tiếp thị / Tăng trưởng",
+    "sales_or_business_development": "Bán hàng / Phát triển Kinh doanh",
+    "support_or_operations": "Hỗ trợ / Vận hành",
+    "student_or_professor": "Sinh viên / Giáo sư",
+    "human_resources": "Nhân sự",
+    "other": "Khác"
+  },
+  "importer": {
+    "github": {
+      "title": "Github",
+      "description": "Nhập các mục công việc từ kho lưu trữ GitHub và đồng bộ hóa chúng."
+    },
+    "jira": {
+      "title": "Jira",
+      "description": "Nhập các mục công việc và sử thi từ các dự án và sử thi Jira."
+    }
+  },
+  "exporter": {
+    "csv": {
+      "title": "CSV",
+      "description": "Xuất các mục công việc sang tệp CSV.",
+      "short_description": "Xuất dưới dạng CSV"
+    },
+    "excel": {
+      "title": "Excel",
+      "description": "Xuất các mục công việc sang tệp Excel.",
+      "short_description": "Xuất dưới dạng Excel"
+    },
+    "xlsx": {
+      "title": "Excel",
+      "description": "Xuất các mục công việc sang tệp Excel.",
+      "short_description": "Xuất dưới dạng Excel"
+    },
+    "json": {
+      "title": "JSON",
+      "description": "Xuất các mục công việc sang tệp JSON.",
+      "short_description": "Xuất dưới dạng JSON"
+    }
+  },
+  "default_global_view": {
+    "all_issues": "Tất cả mục công việc",
+    "assigned": "Đã giao",
+    "created": "Đã tạo",
+    "subscribed": "Đã đăng ký"
+  },
+  "themes": {
+    "theme_options": {
+      "system_preference": {
+        "label": "Tùy chọn hệ thống"
+      },
+      "light": {
+        "label": "Sáng"
+      },
+      "dark": {
+        "label": "Tối"
+      },
+      "light_contrast": {
+        "label": "Sáng tương phản cao"
+      },
+      "dark_contrast": {
+        "label": "Tối tương phản cao"
+      },
+      "custom": {
+        "label": "Chủ đề tùy chỉnh"
+      }
+    }
+  },
+  "project_modules": {
+    "status": {
+      "backlog": "Tồn đọng",
+      "planned": "Đã lên kế hoạch",
+      "in_progress": "Đang tiến hành",
+      "paused": "Tạm dừng",
+      "completed": "Hoàn thành",
+      "cancelled": "Đã hủy"
+    },
+    "layout": {
+      "list": "Bố cục danh sách",
+      "board": "Bố cục thư viện",
+      "timeline": "Bố cục dòng thời gian"
+    },
+    "order_by": {
+      "name": "Tên",
+      "progress": "Tiến độ",
+      "issues": "Số lượng mục công việc",
+      "due_date": "Ngày đến hạn",
+      "created_at": "Ngày tạo",
+      "manual": "Thủ công"
+    }
+  },
+  "cycle": {
+    "label": "{count, plural, one {Chu kỳ} other {Các chu kỳ}}",
+    "no_cycle": "Không có chu kỳ"
+  },
+  "module": {
+    "label": "{count, plural, one {Mô-đun} other {Các mô-đun}}",
+    "no_module": "Không có mô-đun"
+  }
+}
