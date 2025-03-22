@@ -70,11 +70,11 @@ export const SidebarWorkspaceMenuItem: FC<SidebarWorkspaceMenuItemProps> = obser
             />
             {!sidebarCollapsed && <p className="text-sm leading-5 font-medium">{t(item.labelTranslationKey)}</p>}
           </div>
-          {!sidebarCollapsed && item.key === "active_cycles" && (
+          {/* {!sidebarCollapsed && item.key === "active_cycles" && (
             <div className="flex-shrink-0">
               <UpgradeBadge />
             </div>
-          )}
+          )} */}
         </SidebarNavItem>
       </Link>
     </Tooltip>

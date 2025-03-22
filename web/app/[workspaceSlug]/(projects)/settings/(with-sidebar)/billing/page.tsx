@@ -8,7 +8,7 @@ import { PageHead } from "@/components/core";
 // hooks
 import { useUserPermissions, useWorkspace } from "@/hooks/store";
 // plane web components
-import { BillingRoot } from "@/plane-web/components/workspace";
+// import { BillingRoot } from "@/plane-web/components/workspace";
 
 const BillingSettingsPage = observer(() => {
   // store hooks
@@ -25,7 +25,7 @@ const BillingSettingsPage = observer(() => {
   return (
     <>
       <PageHead title={pageTitle} />
-      <BillingRoot />
+      {/* <BillingRoot /> */}
     </>
   );
 });

@@ -139,32 +139,12 @@ export class TranslationStore {
     switch (language) {
       case "en":
         return import("../locales/en/translations.json");
-      case "fr":
-        return import("../locales/fr/translations.json");
-      case "es":
-        return import("../locales/es/translations.json");
-      case "ja":
-        return import("../locales/ja/translations.json");
+      case "vi":
+        return import("../locales/vi/translations.json");
       case "zh-CN":
         return import("../locales/zh-CN/translations.json");
       case "zh-TW":
         return import("../locales/zh-TW/translations.json");
-      case "ru":
-        return import("../locales/ru/translations.json");
-      case "it":
-        return import("../locales/it/translations.json");
-      case "cs":
-        return import("../locales/cs/translations.json");
-      case "sk":
-        return import("../locales/sk/translations.json");
-      case "de":
-        return import("../locales/de/translations.json");
-      case "ua":
-        return import("../locales/ua/translations.json");
-      case "pl":
-        return import("../locales/pl/translations.json");
-      case "ko":
-        return import("../locales/ko/translations.json");
       default:
         throw new Error(`Unsupported language: ${language}`);
     }

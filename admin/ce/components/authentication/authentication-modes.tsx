@@ -12,7 +12,7 @@ import { AuthenticationMethodCard } from "@/components/authentication";
 // helpers
 import { getBaseAuthenticationModes } from "@/lib/auth-helpers";
 // plane admin components
-import { UpgradeButton } from "@/plane-admin/components/common";
+// import { UpgradeButton } from "@/plane-admin/components/common";
 // images
 import OIDCLogo from "@/public/logos/oidc-logo.svg";
 import SAMLLogo from "@/public/logos/saml-logo.svg";
@@ -22,7 +22,7 @@ export type TAuthenticationModeProps = {
   updateConfig: (key: TInstanceAuthenticationMethodKeys, value: string) => void;
 };
 
-// Authentication methods
+/* // Authentication methods
 export const getAuthenticationModes: (props: TGetBaseAuthenticationModeProps) => TInstanceAuthenticationModes[] = ({
   disabled,
   updateConfig,
@@ -68,3 +68,4 @@ export const AuthenticationModes: React.FC<TAuthenticationModeProps> = observer(
     </>
   );
 });
+ */

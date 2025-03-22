@@ -37,7 +37,7 @@ export const WorkspaceDashboardHeader = () => {
             </Breadcrumbs>
           </div>
         </Header.LeftItem>
-        <Header.RightItem>
+{/*         <Header.RightItem>
           <a
             onClick={() =>
               captureEvent(GITHUB_REDIRECTED, {
@@ -57,7 +57,7 @@ export const WorkspaceDashboardHeader = () => {
             />
             <span className="hidden text-xs font-medium sm:hidden md:block">{t("home.star_us_on_github")}</span>
           </a>
-        </Header.RightItem>
+        </Header.RightItem> */}
       </Header>
     </>
   );

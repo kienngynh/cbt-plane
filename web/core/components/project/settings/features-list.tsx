@@ -82,11 +82,11 @@ export const ProjectFeaturesList: FC<Props> = observer((props) => {
                       <div>
                         <div className="flex items-center gap-2">
                           <h4 className="text-sm font-medium leading-5">{t(featureItem.key)}</h4>
-                          {featureItem.isPro && (
+                          {/* {featureItem.isPro && (
                             <Tooltip tooltipContent="Pro feature" position="top">
                               <UpgradeBadge />
                             </Tooltip>
-                          )}
+                          )} */}
                         </div>
                         <p className="text-sm leading-5 tracking-tight text-custom-text-300">
                           {t(`${featureItem.key}_description`)}

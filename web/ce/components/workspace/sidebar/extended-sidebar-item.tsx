@@ -191,11 +191,11 @@ export const ExtendedSidebarItem: FC<TExtendedSidebarItemProps> = observer((prop
             </div>
           </Link>
           <div className="flex items-center gap-2">
-            {item.key === "active_cycles" && (
+            {/*             {item.key === "active_cycles" && (
               <div className="flex-shrink-0">
                 <UpgradeBadge />
               </div>
-            )}
+            )} */}
             {isPinned ? (
               <Tooltip tooltipContent="Hide tab">
                 <Eye

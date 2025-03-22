@@ -10,7 +10,7 @@ import { cn } from "@plane/utils";
 // hooks
 import { useInstance } from "@/hooks/store";
 // plane admin components
-import { AuthenticationModes } from "@/plane-admin/components/authentication";
+// import { AuthenticationModes } from "@/plane-admin/components/authentication";
 
 const InstanceAuthenticationPage = observer(() => {
   // store
@@ -93,7 +93,7 @@ const InstanceAuthenticationPage = observer(() => {
                 </div>
               </div>
               <div className="text-lg font-medium pt-6">Available authentication modes</div>
-              <AuthenticationModes disabled={isSubmitting} updateConfig={updateConfig} />
+              {/* <AuthenticationModes disabled={isSubmitting} updateConfig={updateConfig} /> */}
             </div>
           ) : (
             <Loader className="space-y-10">

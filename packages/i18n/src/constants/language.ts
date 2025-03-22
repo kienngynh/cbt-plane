@@ -4,7 +4,7 @@ export const FALLBACK_LANGUAGE: TLanguage = "en";
 
 export const SUPPORTED_LANGUAGES: ILanguageOption[] = [
   { label: "English", value: "en" },
-  { label: "Tiếng Việt", value: "vn" },
+  { label: "Tiếng Việt", value: "vi" },
   { label: "简体中文", value: "zh-CN" },
   { label: "繁體中文", value: "zh-TW" },
 ];
